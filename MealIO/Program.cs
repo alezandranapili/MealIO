@@ -592,511 +592,601 @@ namespace MealIO
                 //low appetite
                 //chicken
                 case "2111":
-                    Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.
+                      WriteLine
+                      ("Chicken Tinola\n\nIngredients:\n1 kg chicken, cut into serving pieces\n1 tablespoon cooking oil\n1 half onion, peeled and sliced\n2 cloves garlic, minced\n1 thumb-sized ginger, julienned\n1 bunch of malunggay leaves\nSalt to taste\nGround black pepper to taste\n1.5 liters water\n\nInstructions:\nSautC) Aromatics:\nIn a pot, heat cooking oil over medium heat. SautC) garlic, onion, and ginger until fragrant.\nAdd Chicken:\nAdd the chicken pieces and cook until they start to turn brown.\nPour Water:\nPour water into the pot and bring it to a boil. Simmer until the chicken is almost tender.\nAdd Vegetables:\nAdd the sliced green papayas (or chayote) to the pot and cook until they start to soften.\nSeason:\nSeason the salt and ground black pepper according to your taste.\nAdd Leafy Greens:\nAdd malunggay leaves. Cook until the leaves are wilted.");
                     break;
                 case "2112":
-                    Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.
+                  WriteLine
+                  ("Your Meal: Ginisang Sayote with Chicken \n\nIngredients: \n1/2 kilos Sayote or Chayote, about 2 small pcs \n300 grams Chicken breast sliced \n2 pcs tomatoes sliced \n1 pc red onion chopped finely\n2 cloves Garlic minced\n1 Tbsp. Fish sauce or patis \n2 cubes Knorr chicken broth cubes 2 Tbsp. Cooking oil \n1 cup water \n\nInstructions: \n1. Before peeling the sayote, cut the top about half an inch and allow the sap to flow then rub it with the top you removed from the sayote in a circular motion. A the transparent sap will turn to white, similar to cream of tartar. This procedure will remove the sticky sap so it will not stick to your hands when you peel and slice the sayote. \n2. Peel and slice in half the sayote and remove the seed with a spoon. Thinly slice the sayote, about 1/2 inch thick. \n3. In a wok, put cooking oil and saute garlic until brown, then onion until cooked, then followed by the tomatoes. \n4. When the tomatoes are tender, saute the chicken breast for at least 1 minute then put the fish sauce and cover. \n5. Simmer for about 3 minutes and add a little water if the ingredients looks dry. \n6. Then put the sayote and mix with the rest of the ingredients. \n7. Pour the 1 cup of water and the chicken cubes then simmer until cooked.");
                     break;
                 case "2113":
-                    Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.
+                  WriteLine
+                  ("Simple Steamed Chicken Recipe\n\nIngredients:\n4 boneless, skinless chicken thighs or drumsticks\n2 tablespoons soy sauce\n1 tablespoon oyster sauce\n1 teaspoon sesame oil\n1 teaspoon sugar\n1/2 teaspoon black pepper\n1-inch piece of ginger, sliced\n\nInstructions:\nPrepare the Chicken:\nClean and pat dry the chicken thighs or drumsticks.\nMarinate the Chicken:\nIn a bowl, mix soy sauce, oyster sauce, sesame oil, sugar, black pepper,and sliced ginger. Stir well to combine.\nCoat the chicken pieces with the marinade, ensuring they are well covered. Allow it to marinate for at least 15-30 minutes.\nSet Up Steaming:\nPrepare your steamer. If you don't have a steamer, you can use a large pot with a steaming rack or a makeshift steamer using a heatproof plate or bowl placed inside a larger pot.\nSteam the Chicken:\nPlace the marinated chicken pieces on the steaming rack or in the makeshift steamer. Ensure some space between the pieces for even cooking.\nSteam the chicken for about 20-25 minutes or until cooked through. The internal temperature of the chicken should reach 165B0F (74B0C).\nGarnish and Serve:\nOnce the chicken is cooked, garnish with chopped green onions or cilantro if desired.");
                     break;
                 case "2114":
-                    Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.
+                  WriteLine
+                  ("Filipino fried chicken\n\nIngredients:\n1lb chicken wings\nB> cups of flour\n1 teaspoon of baking powder\n2 teaspoons of garlic powder\nB= teaspoon of salt\nB< teaspoon of ground black pepper\n1 egg\n1 cup of water\nCooking oil\n\nInstructions:\nIn a bowl, mix together the flour, baking powder, garlic powder, salt, and black pepper.\nIn another bowl, whisk together the egg and water.\nDip the chicken wings into the egg mixture, then coat them with the flour mixture.\nHeat the cooking oil in a pan over medium heat.\nFry the chicken wings in the oil until they are golden brown and crispy.\nRemove the chicken wings from the pan and place them on a paper towel to drain the excess oil.");
                     break;
                 case "2115":
-                    Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.
+                  WriteLine
+                  ("Homemade chicken soup\n\nIngredients:\n1 kg chicken\n1 carrots, peeled and chopped\n1 onion, chopped\n2 cloves garlic, minced\n1 teaspoon salt\n1/2 teaspoon black pepper\n8 cups water\n\nInstructions:\nPlace the chicken in a large pot and add enough water to cover it. Bring to a boil over high heat.\nReduce the heat to low and simmer for 1 hour.\nRemove the chicken from the pot and let it cool. Once itbs cool enough to handle, remove the meat from the bones and shred it into bite-sized pieces.\nReturn the chicken bones to the pot and add the carrots, onion, garlic, salt, and black pepper.\nBring the soup to a boil over high heat.\nReduce the heat to low and simmer for 1 hour.\nAdd the shredded chicken back to the pot and stir to combine.\nServe hot and enjoy!");
                     break;
                 //canned
                 case "2121":
-                    Console.Clear();
-                    Console.WriteLine("1121");
+                    Console.
+                  WriteLine
+                  ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2122":
-                    Console.Clear();
-                    Console.WriteLine("1122");
+                    Console.
+                  WriteLine
+                  ("Sauteed Tuna with Kangkong (Water Spinach)\n\nIngredients:\n1 can of tuna in oil\n1 bunch of kangkong (water spinach), leaves and tender stems only\n1 small onion, chopped\n2 cloves garlic, minced\n1/4 cup water\n1 tablespoon cooking oil\nSalt and pepper to taste\nInstructions:\nHeat the cooking oil in a pan over medium heat.\nAdd the garlic and onion and saute until fragrant.\nAdd the tuna and cook for 2-3 minutes or until slightly browned.\nAdd the kangkong and cook for 5-7 minutes or until tender.\nPour in the water and let it simmer for 2-3 minutes or until the sauce thickens.\nSeason with salt and pepper to taste.");
                     break;
                 case "2123":
-                    Console.Clear();
-                    Console.WriteLine("1123");
+                    Console.
+                  WriteLine
+                  ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2124":
-                    Console.Clear();
-                    Console.WriteLine("1124");
+                    Console.
+                  WriteLine
+                  ("Your Meal: Fried Canned Sardines \n\nIngredients: \n1 can of sardines (in tomato sauce or oil) \n1/2 cup of flour \n1/2 teaspoon of salt \n1/4 teaspoon of black pepper \n1/4 teaspoon of garlic paste \n1/4 teaspoon of onion, minced \n1 egg \n1 tablespoon of water \nCooking oil \n\nInstructions: \n1. Drain the sardines and remove any bones. \n2. In a bowl, mix together the flour, salt, black pepper, garlic powder, and onion powder. \n3. In another bowl, beat the egg and water together. \n4. Dip each sardine in the egg mixture, then coat it in the flour mixture. \n5. Heat the cooking oil in a pan over medium-high heat. \n6. Fry the sardines in the hot oil until they are golden brown on both sides. \n7. Remove the sardines from the pan and place them on a paper towel to drain any excess oil. \n8. Serve hot with rice or your favorite side dish.");
                     break;
                 case "2125":
-                    Console.Clear();
-                    Console.WriteLine("1125");
+                    Console.
+                  WriteLine
+                  ("Your Meal: Misua Patola Soup \n\nIngredients: \n1 can of sardines (155g) \n1 small of patola \n1 pack of misua \n1 small onion, chopped \n2 cloves of garlic, minced \n2 cups of water \n1 tbsp of cooking oil \nSalt and pepper to taste \n\nInstructions: \n1. Heat the cooking oil in a pot over medium heat. \n2. Add the garlic and onion and sautC) until fragrant. \n3. Add the sardines and cook for 2 minutes. \n4. Add the patola and cook for another 2 minutes. \n5. Pour in the water and bring to a boil. \n6. Add the misua and cook for 2-3 minutes. \n7. Season with salt and pepper to taste.");
                     break;
                 //fish
                 case "2131":
-                    Console.Clear();
-                    Console.WriteLine("1131");
+                    Console.
+                  WriteLine
+                  ("Fish stew\n\nIngredients:\n150g dilis\nB= calamansi\n1 garlic clove, crushed\nOil for shallow frying\nFlour, for dusting\nB= tbsp margarine\nB=\nonion, chopped\n1 tomato, finely chopped\n1 siling haba\n1 cup fish\nstock or water\nB= tsp sugar\n1 small underripe mango, peeled and diced\nSalt and pepper to taste\n\nInstructions:\nPlace the fish in a shallow bowl, squeeze the calamansi juice all over the fish and gently rub in the garlic, salt, and pepper. Cover loosely and marinate overnight or for a few hours.\n Have a little oil in a large frying pan, coat the fish with some flour, then fry the fish for a few minutes until golden brown.\nHeat the oil and margarine in a saucepan and fry the onions for 3 minutes, until soft.\nStir the tomatoes and cook briskly for a few minutes. \nAdd chili, fish stock or water, and sugar, stir well and bring to boil, then simmer gently, covered, for 10 minutes. \nAdd the fish and cook over a gentle heat for about 10 minutes, until the fish is cooked through.\n Add the mango arranging it around the fish, and cook briefly for 1-2 minutes to heat through.\nArrange the fish on a warned serving plate with the mango and tomato sauce poured over.");
                     break;
                 case "2132":
-                    Console.Clear();
-                    Console.WriteLine("1132");
+                    Console.
+                  WriteLine
+                  ("Sweet and Spicy SautC)ed Dilis\n\nIngredients:\n2 cups dried dilis (anchovies), cleaned and gutted\n3 tablespoons cooking oil\n4 cloves garlic, minced\n1 onion, finely chopped\n1 red bell pepper, thinly slice\n2 tablespoons soy sauce\n1 tablespoon brown sugar\n1 tablespoon vinegar\nSalt and black pepper to taste\n\nInstructions:\nClean the Dilis:\nRinse the dried dilis under cold water and pat them dry with paper towels.\nSautC) Aromatics:\nIn a pan, heat cooking oil over medium heat.\nSautC) minced garlic until fragrant, then add chopped onions and sliced red bell pepper. Cook until the vegetables are softened.\nAdd Dilis:\nAdd the cleaned dilis to the pan. Stir well to combine with the aromatics.\nSeason with Sauces and Sugar:\nPour soy sauce, vinegar, and brown sugar over the dilis. Mix well to coat evenly.\nAdd Spice:\nSprinkle red pepper flakes for a spicy kick.\nAdjust the amount based on your spice preference.\nSautC) Until Crispy:\nSautC) the dilis until they become crispy. This usually takes about 8-10 minutes. Stir occasionally to prevent burning.\nAdjust Seasoning:\nTaste and adjust the seasoning. Add salt and black pepper if needed. ");
                     break;
                 case "2133":
-                    Console.Clear();
-                    Console.WriteLine("1133");
+                    Console.
+                  WriteLine
+                  ("Steamed Fish/n/nIngredients:\n1 whole Pompano\nPinch of salt\nGreen onions, julienned\nCrushed garlic\nGinger, sliced into strips\nSoy sauce b 3 to 4 T\nWater\nOil\n\nInstructions:\nCut 2 or 3 slits on each side of the fish. Sprinkle very slight salt on fish, then on a skillet, with very little oil, sear each side for approx. 1 to B= minutes each. (Donbt add more salt. The sauce will complement the taste.) Remove the fish from skillet.\nInsert green onions, garlic and ginger inside fish cavity. Place some on top of fish also but save some for later use.\nSteam fish in a steamer until skin flakes. Approx. 16 minutes for a Pompano.\nWhile fish is steaming, mix and heat up the sauce. Also, heat up the oil until very hot.\nWhen the fish is cooked, remove and place on a platter. Pour the sauce over the fish. Place the rest of the green onions garlic, ginger, and cilantro on and around the fish. Pour the very hot vegetable oil on the fish and hear the sizzling sound. Serve with Rice.");
                     break;
                 case "2134":
-                    Console.Clear();
-                    Console.WriteLine("1134");
+                    Console.
+                  WriteLine
+                  ("Pan-Fried Tulingan\n\nIngredients:\n1 tulingan (mackerel tuna) steaks\nSalt and black pepper to taste\n1 cup all-purpose flour\nCooking oil for frying\nVinegar dipping sauce:\n1/4 cup vinegar (cane vinegar is commonly used)\n1 clove garlic, minced\nSalt and pepper to taste\nRed chili pepper (optional, for heat)\nInstructions:\nPrepare the Tulingan:\nClean and gut the tulingan. Make shallow diagonal cuts on both sides of each fish steak to help with even cooking.\nSeason the Fish:\nSeason both sides of the tulingan steaks with salt and black pepper.\nCoat with Flour:\nDredge each tulingan steak in all-purpose flour, ensuring an even coating.\nHeat Cooking Oil:\nIn a large pan, heat enough cooking oil over medium-high heat for shallow frying.\nFry the Tulingan:\nCarefully place the floured tulingan steaks in the hot oil. Fry for 4-5 minutes on each side or until the fish is golden brown and cooked through.\nDrain Excess Oil:\nPlace the fried tulingan on a plate lined with paper towels to absorb any excess oil.");
                     break;
                 case "2135":
-                    Console.Clear();
-                    Console.WriteLine("1135");
+                    Console.
+                  WriteLine
+                  ("Sinigang na sapsap\n\nIngredients:\n5 pieces sapsap (slipmouth fish), cleaned\n1 small onion, peeled and sliced\n1 medium-sized tomato, sliced\n1 medium-sized radish, peeled and sliced\n6-8 pieces string beans (sitaw), cut into 2-inch lengths\n4 cups water\n1 packet (about 22g) sinigang mix (tamarind soup base)\nSalt and pepper to taste\nFish sauce (patis) to taste (optional)\nKangkong (water spinach), cleaned\n\nInstructions:\nPrepare the Ingredients:\nClean and prepare the sapsap by removing the scales and innards. Rinse them under cold water and set aside\nPrepare the vegetables as mentioned in the ingredients list.\nIn a pot, bring 4 cups of water to a boil.\nOnce the water is boiling, add the sliced onion, tomato, radish, and string beans. Let it simmer until the vegetables start to soften.\nAdd the sinigang mix to the pot. Stir well to dissolve the mix into the broth.\nSeason with salt and pepper to taste. Optionally, add fish sauce (patis) for extra flavor.\nCarefully add the cleaned sapsap to the pot. Simmer until the fish is cooked through, about 5-7 minutes.\nAdd the kangkong to the pot and cook until they wilt, about 1-2 minutes.\nAdjust the seasoning if necessary.\nServe the Sinigang na Sapsap hot.");
                     break;
                 //beef
                 case "2141":
                     Console.Clear();
-                    Console.WriteLine("1141");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2142":
                     Console.Clear();
-                    Console.WriteLine("1142");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2143":
                     Console.Clear();
-                    Console.WriteLine("1143");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2144":
                     Console.Clear();
-                    Console.WriteLine("1144");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2145":
                     Console.Clear();
-                    Console.WriteLine("1145");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 //vegetable
                 case "2151":
                     Console.Clear();
-                    Console.WriteLine("1151");
+                    Console.
+                      WriteLine
+                      ("1 banana heart (puso ng saging)\n1 can (400ml) coconut milk\n1 onion, finely chopped\n3 cloves garlic, minced\n1 thumb-sized ginger, sliced thinly\n2-3 red chili peppers (siling labuyo), sliced (adjust according to spice preference)\n2 tablespoons shrimp paste (bagoong alamang) or fish sauce (patis)\nSalt and pepper to taste\n2 tablespoons cooking oilInstructions:\n\n1. Remove the outer layers of the banana heart until you reach the tender core. Peel off and discard the tough outer layers until you see the light-colored and softer parts. Slice the banana heart thinly.\nIn a large pan or wok, heat cooking oil over medium heat. SautC) chopped onions until translucent.\nAdd minced garlic and sliced ginger. SautC) until aromatic.\nAdd the sliced banana heart to the pan. Stir and cook for a few minutes.\nPour in the coconut milk and bring the mixture to a simmer.\nStir in shrimp paste (bagoong alamang) or fish sauce (patis) for savory flavor.\nAdjust the quantity based on your taste preference. Add sliced red chili peppers according to your desired level of spiciness.\nLet the mixture simmer over low to medium heat for about 15-20 minutes or until the banana heart is tender and the flavors meld.\nSeason with salt and pepper to taste.\nAdjust the seasoning according to your preference.");
                     break;
                 case "2152":
                     Console.Clear();
-                    Console.WriteLine("1112");
-                    break;
+                    Console.
+                      WriteLine
+                      ("SAUTEED KANGKONG\n1 tali of kangkong\n2-3 bulbs of garlic\n1 small onion\n1-2 blocks of tofu\n1 sachet of oyster sauce\n2 tbsp of oil\nsalt and pepper to taste\nDirections:\n\nRip kangkong leaves from the stem then wash.\nOn a heated pan with oil, saute minced garlic until golden brown, then remove from pan\nWith the remaining oil, fry diced tofu until golden brown, then remove from pan\nSaute diced onion, add the pepper for aroma\nThen put washed kangkong leaves on the pan\nAdd small amount of water to cook the kangkong\nSeason according to taste, then add the sachet of oyster sauce\nOnce combined, toss in the fried garlic and tofu, plate, then serve 1");
+                      break;
                 case "2153":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.
+                      WriteLine
+                      ("Sweet potatoes\n\nWater\nOptional: Butter, cinnamon, brown sugar, or other toppings of your choice\nInstructions:\nWash the sweet potatoes thoroughly and peel them if desired. Cut the sweet potatoes into evenly-sized pieces to ensure they cook evenly.\nFill a steamer basket with water, making sure the water level is below the bottom of the basket. If you don't have a steamer basket, you can use a pot with a tight-fitting lid and a rack or a makeshift steamer setup.\nPlace the sweet potato pieces in the steamer basket or on the rack, making sure there's enough space for steam to circulate. Bring the water to a boil, then reduce the heat to a simmer. Cover the pot with the lid.\nSteam the sweet potatoes for about 15-20 minutes, or until they are fork-tender. The cooking time may vary depending on the size of the sweet potato pieces.\nTest the sweet potatoes with a fork. They should be easily pierced, indicating that they are fully cooked. Be careful not to overcook them, as they may become mushy.\nOnce the sweet potatoes are done, transfer them to a serving dish. You can enjoy them as is, or add some toppings like butter, cinnamon, brown sugar, or a drizzle of honey for extra flavor.\nServe the steamed sweet potatoes immediately while they are still warm.");
                     break;
                 case "2154":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.
+                      WriteLine
+                      ("KANGKONG CHIPS: 1 bunch of kangkong (water spinach)\n\n1 cup all-purpose flour\n1 cup cornstarch\n1 teaspoon baking powder\n1 teaspoon garlic powder\n1 teaspoon onion powder\n1/2 teaspoon salt (adjust to taste)\n1/4 teaspoon black pepper\n1 cup water (or as needed)\n\nCooking oil for frying\nInstructions:\nWash and thoroughly dry the kangkong. Remove the leaves from the stems and set aside.\nIn a mixing bowl, combine the all-purpose flour, cornstarch, baking powder, garlic powder, onion powder, salt, and black pepper.\nGradually add water and whisk until you achieve a smooth and slightly thick batter. The consistency should be thick enough to coat the kangkong leaves.\nHeat cooking oil in a deep fryer or a deep, heavy-bottomed pan\nDip each kangkong leaf into the batter, making sure it's well-coated.\nCarefully place the coated kangkong leaves into the hot oil, a few at a time, to avoid overcrowding.\nFry until the chips are golden brown and crispy, which should take about 1-2 minutes per batch.\nUse a slotted spoon to remove the Kangkong chips from the oil and place them on a plate lined with paper towels to drain excess oil.\nRepeat the coating and frying process until all the kangkong leaves are turned into crispy chips.\nOnce the Kangkong chips are ready, serve them immediately as a crunchy and tasty snack.");
                     break;
                 case "2155":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.
+                      WriteLine
+                      ("Ginataang balatong\n\n1 cup mung beans (balatong), washed and drained\n2 cups coconut milk (gata)\n1 cup coconut cream (latik)\n2 cups water 1 cup brown sugar (adjust according to taste)\n1/2 teaspoon salt\n\nInstructions:\nWash the mung beans thoroughly and drain.\nIn a pot, combine mung beans and water. Bring to a boil and then simmer until the beans are soft. This may take about 30-45 minutes. You can also use a pressure cooker to speed up the process.\nOnce the mung beans are soft, add coconut milk and bring to a simmer. Allow it to cook for another 10-15 minutes, stirring occasionally.\nPour in the coconut cream and stir well. Let it simmer for an additional 10-15 minutes until the mixture thickens.\nAdd brown sugar and salt. Adjust the sweetness and saltiness according to your taste preference. If you like it sweeter, you can add more brown sugar.\nOnce everything is well-cooked and the mixture has thickened, remove the pot from heat.");
                     break;
                 //instant noodles
                 case "2161":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.
+                      WriteLine
+                      ("Laing Instant Noodles Stew\n\nIngredients:\n1 pack of coconut-flavored instant noodles\n1 cup dried taro leaves (laing)\n1 can (400 ml) coconut milk\n2 tablespoons cooking oil\n 1 of half onion, finely chopped\n 2 cloves garlic, mincedpepper to taste\nInstructions:Prepare the Instant Noodles:\nBoil water and cook the coconut-flavored instant noodles according to the package instructions. Drain and set aside.\nPrepare the Dried Taro Leaves (Laing):\nCook the Laing Instant\nNoodles Stew:\nIn a large pan or wok, heat cooking oil over medium heat.\nSautC) onion and garlicr until fragrant.\nPour in the coconut milk and bring the mixture to a simmer.\nAdd salt and pepper according to your taste.\nCombine with Instant Noodles:\nAdd the cooked instant noodles to the laing mixture.\nToss everything together until well combined.\nServe:\nTransfer the Laing Instant Noodles Stew to serving bowls.\nGarnish with additional red chili peppers if you like it spicier.");
                     break;
                 case "2162":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.
+                      WriteLine
+                      ("Ingredients:\n\n1 pack of instant noodles (any brand of your choice) \n1/2 onion, chopped 1\n1/2 garlic head, minced\n1/4 cup f sliced carrots \n1/4 cup of sliced cabbage \n1 cup of sliced bell pepper 1\n1/4 cup of sliced chicken breast \n1 tablespoon of cooking oil \nSalt and pepper to taste \nInstructions:\nCook the instant noodles according to the package instructions. Drain and set aside\nHeat the cooking oil in a pan over medium heat\nAdd the garlic and onion and sautC) until fragrant\nAdd the chicken breast and cook until browned\nAdd the sliced carrots, cabbage, and bell pepper. SautC) for 2-3 minutes\nAdd the cooked instant noodles and mix well\nSeason with salt and pepper to taste\nServe hot and enjoy");
                     break;
                 case "2163":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.
+                      WriteLine
+                      ("Ingredients:\n\n1 pack of instant noodles (any brand of your choice) \n1/2 onion, chopped \n1/2 garlic head, minced \n1/4 cup of sliced carrots \n1/4 cup of sliced cabbage \n1/4 cup of sliced bell pepper \n1/4 cup of sliced chicken breast \n1 tablespoon of cooking oil \nSalt and pepper to taste \n\nInstructions:\nCook the instant noodles according to the package instructions. Drain and set aside\nHeat the cooking oil in a pan over medium heat\nAdd the garlic and onion and sautC) until fragrant\nAdd the chicken breast and cook until browned\nAdd the sliced carrots, cabbage, and bell pepper. SautC) for 2-3 minutes\nAdd the cooked instant noodles and mix wellSeason with salt and pepper to taste\nTransfer the mixture to a heatproof dish and steam for 10-15 minutes\nServe hot and enjoy");
                     break;
                 case "2164":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.
+                      WriteLine
+                      ("Curry Vegetable Fried Noodles\n\nIngredients:\n1 packet of instant noodles\n1 cup mixed vegetables (bell peppers, carrots, peas)\n2 tablespoons curry powder\n2 tablespoons soy sauce\n1 tablespoon vegetable oil\nInstructions:\nCook the instant noodles and set aside.\nIn a pan, stir-fry mixed vegetables in vegetable oil until slightly tender.\nAdd cooked noodles, curry powder, and soy sauce. Mix until well combined.");
                     break;
                 case "2165":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.
+                      WriteLine
+                      ("Chicken Noodle Soup Recipe\n\nIngredients:\nFor the Chicken Broth:\n1 kg chicken, cut into pieces\nHalf onion, quartered\n1 carrots, chopped\n3 cloves garlic, smashed\nSalt and pepper to taste\nWater (enough to cover the ingredients)\nFor the Soup:\n1 cup carrots, sliced\n1 cup egg noodles or any affordable pasta\n1 cup cooked chicken, shredded (from the broth preparation)\nSalt and pepper to taste\nInstructions:\nPrepare Chicken Broth:\nIn a large pot, combine the chicken pieces, quartered onion, chopped carrots, smashed garlic,salt, and pepper.\nAdd enough water to cover the ingredients. Bring to a boil, then reduce heat and simmer for at least 1 hour until the chicken is cooked and the flavors are infused.\nStrain Chicken Broth:\nRemove the chicken pieces and strain the broth to\nremove solid ingredients. Keep the cooked chicken for later use.\nPrepare Soup:\nIn the same pot, add sliced carrots and celery to the strained chicken broth. Bring to a boil and simmer until the vegetables are tender.\nAdd Noodles:\nAdd the egg noodles or pasta to the boiling broth. Cook according to the package instructions until al dented\nShred Chicken:\nWhile the noodles are cooking, shred the cooked chicken into bite-sized pieces.\nCombine Ingredients :\nOnce the noodles are cooked, add the shredded chicken to the pot. Stir well to combine. Season with salt and pepper to taste.");
                     break;
                 //frozen foods
                 case "2171":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.
+                      WriteLine
+                      ("Tomato and Ham Shashuka\nIngredients:\n\n1 tablespoon oil\n1/2 onion, chopped\n1 garlic clove, minced\n3-5 pcs tomatoes, diced\n1 or 1/2 pack ham, chopped into squares\n2 small eggs\nSalt and pepper to taste\nInstructions:\nHeat oil in the pan over medium heat. Add onion and garlic and cook until onion is translucent.\nAdd diced tomatoes and ham. Cook for 5 minutes.\nMake 2 wells in the tomato mixture and crack an egg into each well.\nSeason with salt and pepper.\nLet it simmer for 5-10 minutes or until the eggs are set.\nServe with warm rice and enjoy. ");
                     break;
                 case "2172":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.
+                      WriteLine
+                      ("Frozen sauteed vegetables\nIngredients:\n\n1 tablespoon extra-virgin olive oil\n1 small shallot, minced\n4 cups mixed frozen vegetables, such as corn, carrots and green beans\nB= teaspoon dried dill or tarragon\nB< teaspoon salt\nB< teaspoon freshly ground pepper\nDirections:\nHeat oil in a large skillet over medium heat.\nAdd shallot and cook, stirring, until softened, about 1 minute.\nStir in frozen vegetables.\nCover and cook, stirring occasionally, until the vegetables are tender, 4 to 6 minutes.\nStir in dill (or tarragon), salt and pepper.");
                     break;
                 case "2173":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.
+                      WriteLine
+                      ("chicken crispy fillets \n\nIngridients:\n4 6-ounces - Fillets Sole\n1 - Egg\n2 tablespoons - Prepared Yellow Mustard\n1/2 cups - Potato Flakes (instant mashed)\n1/4 cup - Oil (for frying)\n1/2 teaspoon - Salt\n\nInstructions:\nPreheat the oven to 200 degrees Celsius.\nIn a bowl, whisk together the egg and mustard.\nIn another bowl, mix the potato flakes and salt.\nDip each fish fillet in the egg mixture, then coat it with the potato flakes mixture.\nHeat the oil in a pan over medium heat.\nFry the fish fillets until they are golden brown on both sides.\nTransfer the fish fillets to a baking sheet and bake them in the oven for 10 minutes.");
                     break;
                 case "2174":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.
+                      WriteLine
+                      ("Crispy chicken nuggets\nIngredients:\n1 pack of frozen chicken nuggets\n1/2 cup all-purpose flour\n1/2 teaspoon salt\n1/4 teaspoon black pepper\n1/2 teaspoon garlic powder\n1/2 teaspoon onion powder\n1/2 teaspoon paprika\n1 egg\n1/2 cup milk\n1 cup breadcrumbs\nOil for frying\n\nInstructions:\nPreheat the oven to 400B0F.\nIn a bowl, mix together the flour, salt, black pepper, garlic powder, onion powder, and paprika.\nIn another bowl, whisk together the egg and milk.\nIn a third bowl, place the breadcrumbs.\nCoat each chicken nugget in the flour mixture, then dip it in the egg mixture, and finally coat it in the breadcrumbs.\nHeat the oil in a pan over medium-high heat.\nFry the chicken nuggets until golden brown and crispy, about 2-3 minutes per side.\nPlace the chicken nuggets on a baking sheet and bake in the oven for 5-7 minutes to ensure they are cooked through.");
                     break;
                 case "2175":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.
+                      WriteLine
+                      ("Ingredients:\n\n1 tablespoon olive oil\n2 cloves garlic, minced\n1 (16-ounce) bag frozen mixed vegetables\n1 (14.5-ounce) can diced tomatoes\n1/2 cup marinara sauce\n1 teaspoon dried basil\n1 teaspoon dried oregano\n1/2 teaspoon salt\n1/4 teaspoon black pepper\n4 cups vegetable broth\n1 tablespoon red wine vinegar\n\nInstructions:\nHeat the olive oil in a large pot over medium heat.\nAdd the garlic and cook for 1 minute until fragrant.\nAdd the frozen mixed vegetables, diced tomatoes, marinara sauce, dried basil, dried oregano, salt, and black pepper. Stir to combine.\nAdd the vegetable broth and bring to a boil.\nReduce the heat and simmer for 20-25 minutes or until the vegetables are tender.\nAdd the red wine vinegar and stir to combine.\nRemove from heat and let cool for a few minutes.\nUse an immersion blender to blend the soup until smooth.\nServe hot and enjoy!");
                     break;
                 //pork
                 case "2181":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.
+                      WriteLine("Affordable Pork Stew\nIngredients:\n1/2 kg pork shoulder, cut into cubes (look for budget-friendly cuts\n2 tablespoons vegetable oil\nHalf onion, finely chopped\n2 cloves garlic, minced\n1 carrot, peeled and sliced\n1 potatoe, peeled and diced\n4 cups water (use water instead of broth to reduce cost)\nSalt and pepper to taste\nInstructions:\nBudget-Friendly Meat:\nLook for budget-friendly cuts of pork shoulder or check for sales at your local grocery store.\nSautC) Aromatics:\nInexpensive vegetable oil can be used for sautC)ing. SautC) onions and garlic until soft.\nSubstitute water for broth to reduce costs.\nServe the stew with rice and you can enjoy your pork stew");
                     break;
                 case "2182":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.
+                      WriteLine
+                      ("Kangkong and Pork Stir Fry\n\nIngredients:\n2 tali of Kangkong / Water Spinach, chopped stalks and leaves separated\n1/4 cup pork fat \n1 small sachet oyster sauce\n1 small onion, finely chopped\n3 cloves of garlic, minced\n1/2 cup water\nOil\nSalt\nFreshly ground black pepper\n\nInstructions:\n Heat oil in a pan over medium heat.\n Add pork fat and sautC) for about 3 to 5 minutes, or until you get a light brown color on your pork.\n Add onion and garlic. SautC) until onion is translucent.\nAdd kangkong stalks and sautC) for 2 minutes.\nAdd kangkong leaves and sautC) for another 2 minutes.\n Pour 1 sachet of oyster sauce and a quarter cup of water. Stir these together and let it cook until youbve let the water evaporate completely.\nSeason with salt and freshly ground black pepper.");
                     break;
                 case "2183":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2184":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.
+                      WriteLine
+                      ("Garlic Pepper Pork Tapa\nIngredients:\n1 pack ready to cook Pork Tapa\n2 cloves garlic, sliced vertically\nGround black pepper\n 1 1/2 tbsp oil\nInstructions:\nHeat oil in the pan.\nFry garlic until golden brown, then set aside.\nFry pork tapa according to package instructions.\n Add pepper for slight spice.\nPut back the crispy garlic as garnish, then serve.");
                     break;
                 case "2185":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.
+                      WriteLine
+                      ("Pork and Potato Soup\n\nIngredients:\n1 tablespoon olive oil\n 1 Half onion, chopped\n1 cloves garlic, minced\n2 cups leftover cooked pork, shredded\n1 Half of potatoes, peeled and diced\n1/2 teaspoon dried thyme\n1/2 teaspoon dried rosemary\nSalt and pepper to taste\n\nInstructions:\nHeat olive oil in a large pot over medium heat. Add onion and garlic and cook until onion is translucent.\nAdd pork and potatoes to the pot and stir to combine.\nPour in chicken broth and add salt, and pepper. Bring to a boil.\nReduce heat and simmer for 20-25 minutes or until potatoes are tender.\nServe hot and enjoy!");
                     break;
-              //mid appetite
+                //mid appetite
                 //chicken
                 case "2211":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.
+                      WriteLine
+                      ("Your Meal: Affordable Chicken Afritada \n\nIngredients: \n1/2 klchicken cut into serving pieces \n1 medium onion minced \n2 teaspoons minced garlic \n2 cups chicken broth or 1 chicken cube \n1 6 oz can tomato paste \n1 small baking potato cubed \n1 small carrot cubed \n4 pieces dried bay leaves optional \n1/2 teaspoon sugar optional \nSalt and pepper to taste \n3 tablespoons cooking oil \n\nInstructions: \n1. Heat oil in a pot. \n2. Saute the onion and garlic. \n3. Add the chicken slices. Continue to saute until the chicken gets light brown. \n4. Pour the chicken broth and add the tomato paste. Stir and let boil. Add the dried bay leaves and sugar. Cover the pot and adjust the heat to low. Cook for 35 minutes. Note: Add water or chicken broth if it starts to dry-up. \n5. Add the potato and carrot. Stir. cover and continue to cook in medium heat for 8 to 10 minutes. \n6. Add salt and pepper to taste. \n7. Transfer to a serving bowl. Serve. Share and enjoy!\nSeason with salt and sugar to taste. Continue simmering until the sauce is thick and the chicken is tender.");
                     break;
                 case "2212":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.
+                      WriteLine
+                      ("Tofu Adobo Recipe\n\nIngredients:\n1 block (about 14 oz) firm tofu, cubed\n1 onion, peeled and sliced thinly\n1 head garlic, peeled and minced\n1/2 cup soy sauce\nAdd black pepper\n1/4 cup vinegar\n1 teaspoon peppercorns, crushed\n1 cup water\n2 tablespoons cooking oil\nSalt and pepper to taste\n\nInstructions:\nPrepare the Tofu:\nCut the tofu into cubes. You can press the tofu cubes between paper towels to remove excess moisture\nSautC) Onion and Garlic:\nHeat oil in a skillet or pan over medium heat.\nSautC) the sliced onions until translucent, then add the minced garlic.\nCook until fragrant.\nCook the Tofu:\nAdd the tofu cubes to the pan. Gently stir to coat the tofu with the sautC)ed onions and garlic.\nMake the Adobo Sauce:\nIn a bowl, mix soy sauce and vinegar.\nPour the sauce over the tofu in the pan.\nSimmer:\nAdd water to the pan and bring the mixture to a boil. Lower the heat, cover the pan, and let it simmer for about 15-20 minutes or until the tofu absorbs the flavors.\nAdjust Seasoning:\nSeason with salt and pepper to taste. You can adjust the soy sauce and vinegar according to your preference.\nFinish and Garnish:\nOnce the tofu is tender and the sauce has thickened.");
                     break;
                 case "2213":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.
+                      WriteLine
+                      ("Steamed Chicken with Mushrooms\n\nIngredients:\n1 kg chicken, cut into serving pieces\n1 cup mushrooms , sliced\n1 tablespoons soy sauce\n1 tablespoon oyster sauce\n1 tablespoon sesame oil\n1 teaspoon sugar\n1 teaspoon ginger, minced\n2 cloves garlic, minced\nSalt and pepper to taste\nInstructions:\nPrepare the Chicken:\nClean the chicken thoroughly and pat it dry with paper towels. Cut it into serving pieces.\nMarinate:\nIn a bowl, mix together soy sauce, oyster sauce, sesame oil,sugar, minced ginger, and minced garlic.\nCoat Chicken and Mushrooms:\nRub the chicken pieces and sliced mushrooms with the marinade. Make sure they are well-coated. Let it marinate for at least 30 minutes.\nPrepare the Steamer:\nFill a steamer with water and bring it to a boil.\nSteam Chicken and Mushrooms:\nPlace the marinated chicken and mushrooms on a heatproof dish suitable for steaming.\nEnsure there's enough space around the chicken for steam to circulate.\nSteam:\nSteam the chicken and mushrooms for about 40-50 minutes or until the internal temperature of the chicken reaches 165B0F (74B0C).\nGarnish and Serve:\nOnce done, garnish the steamed chicken and mushrooms with chopped green onions.");
                     break;
                 case "2214":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.
+                      WriteLine
+                      ("Korean Fried Chicken\n\nIngredients\nFor the Chicken:\n2 lbs chicken wings or drumette\n1 cup buttermilk\n1 cup all-purpose flour\n1 cup cornstarch\n1 teaspoon salt\n1 teaspoon black pepper\nOil for frying\n\nFor the Glaze:\n1/4 cup soy sauce\n2 tablespoons honey\n1 teaspoon sesame oil\n2 cloves garlic, minced\n1 teaspoon ginger, grated\nFor Garnish:\nToasted sesame seeds\nSliced green onions\nInstructions:\nMarinate the Chicken:\nIn a bowl, marinate the chicken in buttermilk for at least 1 hour or\novernight in the refrigerator.\nPrepare the Coating:\nIn a large bowl, mix flour, cornstarch, salt, and black pepper\nCoat the Chicken:\nRemove the chicken from the buttermilk, letting excess liquid drain off. Dredge each piece in the flour mixture, ensuring they are well-coated.\nDouble\nFry the Chicken:\nHeat oil in a deep fryer or a large, deep skillet to 350B0F (175B0C).\nFry the chicken in batches for about 8-10 minutes until golden brown and cooked through. Remove and let drain on a wire rack.\nAllow the oil to heat up to around 375B0F (190B0C).\nFry the chicken again in batches for 3-5 minutes until deeply golden and extra crispy. Drain on a wire rack.\nMake the Glaze:\nIn a saucepan, combine soy sauce, honey, sesame oil, minced garlic, and grated ginger. Cook over medium heat until the sauce thickens slightly.\nToss the Chicken in the Glaze:\nToss the fried chicken pieces in the prepared glaze until evenly coated.\nGarnish and Serve:\nGarnish with toasted sesame seeds and sliced green onions.");
                     break;
                 case "2215":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.
+                      WriteLine
+                      ("Tinolang Manok (Filipino Chicken Ginger Soup)\n\nIngredients:\n1 kg chicken, cut into serving pieces\nHalf onion, sliced\n2 cloves garlic, minced Ginger, julienned\n1 green papaya, peeled, seeded, and sliced\n1-2 bunch of malunggay leaves\nAdd patis and ground black pepper to taste\nWater\nInstructions:\nIn a pot, sautC) garlic, onions, and ginger.\nAdd the chicken pieces and cook until they turn brown.\nPour in enough water to cover the chicken. Bring to a boil.\nAdd the green papaya and simmer until the chicken is tender.\nSeason with fish sauce and ground black pepper.\nAdd malunggay leaves or other greens. Cook for a few minutes until wilted.\nServe hot with rice.");
                     break;
                 //canned
                 case "2221":
                     Console.Clear();
-                    Console.WriteLine("1121");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2222":
                     Console.Clear();
-                    Console.WriteLine("1122");
+                    Console.
+                      WriteLine
+                      ("Sauteed Meatloaf with Cabbage and Carrots\n\nIngredients:\n1 can of meatloaf, sliced\n 1/4 head of cabbage, sliced\n1 small carrot, peeled and sliced\n1 small onion, chopped\n 2 cloves garlic, minced\n1/4 cup water\n 1 tablespoon cooking oil\n Salt and pepper to tast\n\nInstructions:\n Heat the cooking oil in a pan over medium heat.\n Add the garlic and onion and saute until fragrant.\n Add the Spam and cook for 2-3 minutes or until slightly browned.\n Add the cabbage and carrot and cook for 5-7 minutes or until tender.\n Pour in the water and let it simmer for 2-3 minutes or until the sauce thickens.\nSeason with salt and pepper to taste");
                     break;
                 case "2223":
                     Console.Clear();
-                    Console.WriteLine("1123");
+                    Console.
+                      WriteLine
+                      ("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2224":
                     Console.Clear();
-                    Console.WriteLine("1124");
+                    Console.
+                      WriteLine
+                      ("Ginisang corned beef\n\nIngredients:\n1 can Argentina corned beef\n2 medium potatoes, peeled and diced\n1 small onion, chopped\n2 cloves garlic, minced\nSalt and pepper to taste\nCooking oil\n\nInstructions:\nHeat oil in a pan over medium heat.\nAdd garlic and sautC) until lightly browned.\nAdd onions and sautC) until translucent.\nAdd potatoes and cook until tender.\nAdd corned beef and stir until heated through.\nSeason with salt and pepper to taste.\nServe hot with rice.");
                     break;
                 case "2225":
                     Console.Clear();
-                    Console.WriteLine("1125");
-                    break;
+                    Console.
+                      WriteLine
+                      ("Sardine and Tomato Soup\n\nIngredients:\n\n1 can (4-6 ounces) canned sardines in olive oil, drained\n1 can (14 ounces) crushed tomatoes\n1 can (14 ounces) vegetable or chicken broth\n1 small onion, finely chopped\n2 cloves garlic, minced\n1 carrot, diced\n1 celery stalk, diced\n1 teaspoon dried oregano\n1 teaspoon dried basil\nSalt and pepper to taste\n2 tablespoons olive oil\nOptional: 1/2 cup small pasta (such as orzo or ditalini)\nFresh parsley, chopped, for garnish\n\nInstructions:\nIn a large pot, heat olive oil over medium heat. Add chopped onions and cook until they become translucent.\nAdd minced garlic and continue to saute for an additional 1-2 minutes until fragrant.\nAdd diced carrots and celery to the pot, cooking for another 3-5 minutes until the vegetables begin to soften.\nPour in the crushed tomatoes and vegetable or chicken broth. Stir well to combine.\nAdd dried oregano, dried basil, salt, and pepper to the pot. Bring the mixture to a simmer.\nIf you're using pasta, add it to the pot and cook according to the package instructions until al dente.\nOnce the soup is simmering and the vegetables (and pasta) are cooked, add the drained sardines to the pot. Gently stir to combine.\nAllow the soup to simmer for an additional 5-10 minutes to let the flavors meld.\nAdjust the seasoning as needed. Serve the sardine and tomato soup hot, garnished with fresh parsley.");
+                     break;
                 //fish
                 case "2231":
                     Console.Clear();
-                    Console.WriteLine("1131");
+                    Console.
+                      WriteLine
+                      ("Ingridients:Fish fillets (tilapia, cod, or any firm white fish)\nTomatoes\nOnion\nGarlic\nBell peppers\nFish or vegetable broth (or bouillon cubes)\nSeasonings (salt, pepper, paprika, bay leaves)\nOptional: Potatoes or other veggies like carrots\nInstructions:\nSautC) diced onion and minced garlic in a pot until fragrant.\nAdd chopped tomatoes and bell peppers, cook until they soften.\nPour in the broth, add seasonings (salt, pepper, paprika, bay leaves), and bring to a simmer.\n Add fish fillets (cut into chunks if needed) and any additional vegetables.\nLet it simmer until the fish is cooked through and the flavors meld together.\nAdjust seasonings to taste and enjoy your homemade fish stew!");
                     break;
                 case "2232":
                     Console.Clear();
-                    Console.WriteLine("1132");
+                    Console.
+                      WriteLine
+                      ("Sapsap saute\n\nIngredients:\n1 cup sapsap (ponyfish), cleaned and gutted\n2 eggs, beaten\n1 small-sized tomato, diced\n1 small onion, finely chopped\n2 cloves garlic, minced\n2 tablespoons cooking oil\n1 tablespoon soy sauce\n1/2 tablespoon fish sauce (patis)\n1/4 teaspoon ground black pepper\nSalt to taste\n\nInstructions:\nRinse the sapsap under cold running water.\n Pat them dry using paper towels.\nHeat the cooking oil in a pan over medium heat.\nAdd minced garlic and saute until fragrant.\nAdd chopped onions and cook until translucent.\nAdd the diced tomatoes to the pan. Cook until the tomatoes are softened.\nAdd the cleaned sapsap to the pan. Cook for 2-3 minutes on each side or until the fish is lightly browned.\nPour the beaten eggs over the sapsap. Allow the eggs to set slightly before gently stirring to combine with the fish and tomatoes.\nPour in soy sauce and fish sauce. Stir well to coat the sapsap and eggs evenly.\nSeason with ground black pepper. Adjust the salt according to your taste.\nCook for an additional 2-3 minutes or until the eggs are fully cooked and the sapsap is cooked through.\nTransfer the sauteed sapsap with egg to a serving dish.");
                     break;
                 case "2233":
                     Console.Clear();
-                    Console.WriteLine("1133");
+                    Console.
+                      WriteLine
+                      ("Steam sapsap\nIngredients:\n\n6-8 sapsap, cleaned and scaled\n2 tablespoons soy sauce\n1 tablespoon oyster sauce\n1 tablespoon sesame oil\n1 teaspoon ginger, julienned\n2 cloves garlic, minced\n\nInstructions:\nClean and scale the sapsap, removing the innards. Rinse them under cold water and pat dry with paper towels.\nSet up a steamer. If you don't have a bamboo steamer, you can use a regular steamer basket over a pot of simmering water.\nIn a bowl, mix together soy sauce, oyster sauce, sesame oil, julienned ginger, and minced garlic.\nPlace the sapsap in a shallow dish or a plate, and pour the marinade over them. Make sure the fish are evenly coated. Allow them to marinate for about 15-20 minutes.\nArrange the marinated sapsap in the steamer basket, making sure there is some space between them for even steaming.\nCover the steamer and steam the sapsap for approximately 10-15 minutes, or until they are cooked through. The fish should be opaque and easily flaked with a fork.\nCarefully transfer the steamed sapsap to a serving plate.");
                     break;
                 case "2234":
                     Console.Clear();
-                    Console.WriteLine("1134");
+                    Console.WriteLine("Fried tuyo\nIngredients:\n6 pieces dried tuyo (dried herring)\n2 tablespoons cooking oil (vegetable or any neutral oil)\n\nInstructions:\nIn a pan, heat the cooking oil over medium heat.\n Fry the dried tuyo for about 2-3 minutes on each side or until they become crispy and golden brown. Be cautious as dried fish tends to splatter during frying.\nTransfer the fried tuyo to a serving plate.");
                     break;
                 case "2235":
                     Console.Clear();
-                    Console.WriteLine("1135");
+                    Console.WriteLine("Sinigang na Bangus (Milkfish in Sour Tamarind Soup)\nIngredients:\n1 medium-sized bangus (milkfish), cleaned and sliced into serving pieces\n1 large onion, peeled and sliced\n2 tomatoes, sliced\n1 eggplant, sliced\n1 radish, peeled and sliced\n1 bundle string beans (sitaw), cut into 2-inch pieces\n2 green chili peppers (siling haba), sliced (optional, for heat)\n1 packet sinigang mix (tamarind soup base)\n1 liter water\nFish sauce (patis) or salt to taste\nFreshly ground black pepper to taste\nKangkong (water spinach) leaves\nCooking oil\nInstructions:\nSauté Aromatics:\nIn a pot, sauté onions and tomatoes in a bit of cooking oil until the onions are translucent.\nAdd Bangus:\nAdd the sliced bangus to the pot. Cook for 2-3 minutes, turning the fish pieces to sear them slightly.\nPour Water:\nPour water into the pot and bring it to a boil.\nAdd Vegetables:\nAdd radish, eggplant, string beans, and green chili peppers to the pot. Simmer until the vegetables are tender.\nSeason with Sinigang Mix:\nAdd the sinigang mix to the pot. Stir well to dissolve the mix into the broth.\nSeason with Fish Sauce and Pepper:\nSeason the soup with fish sauce (patis) or salt and freshly ground black pepper to taste. Adjust the seasoning according to your preference.");
                     break;
                 //beef
                 case "2241":
                     Console.Clear();
-                    Console.WriteLine("1141");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2242":
                     Console.Clear();
-                    Console.WriteLine("1142");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2243":
                     Console.Clear();
-                    Console.WriteLine("1143");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2244":
                     Console.Clear();
-                    Console.WriteLine("1144");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2245":
                     Console.Clear();
-                    Console.WriteLine("1145");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 //vegetable
                 case "2251":
                     Console.Clear();
-                    Console.WriteLine("1151");
+                    Console.WriteLine("1 bunch kangkong (water spinach), washed and cut into 3-inch lengths\n2 tablespoons cooking oil\n1 onion, peeled and sliced thinly\n4 cloves garlic, minced\n1 tablespoon soy sauce\n2 tablespoons vinegar\n1 teaspoon sugar\nSalt and pepper to taste\nRed chili peppers (optional, for spice)\nInstructions:\nWash the kangkong thoroughly and cut it into 3-inch lengths, separating the leaves from the stems.\nIn a pan, heat cooking oil over medium heat. Sauté sliced onions until translucent.\nAdd minced garlic and continue to sauté until aromatic.\nAdd the kangkong stems to the pan and stir-fry for a few minutes until slightly tender.\nAdd the kangkong leaves and continue to stir-fry until the leaves are wilted.\nPour in soy sauce, vinegar, and sugar into the pan. Stir to combine.\nIf you prefer a bit of spice, you can add red chili peppers at this point.\nAllow the kangkong to simmer in the adobo sauce for about 3-5 minutes, ensuring that the stems are cooked but still slightly crisp.\nTaste the dish and adjust the seasoning with salt and pepper according to your preference.\n Once the kangkong is cooked to your liking and the sauce has thickened slightly, remove from heat.");
                     break;
                 case "2252":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Ginisang togue\n1 cup mung bean sprouts (togue)\n1/2 cup carrots, juliennedn1/2 cup green beans, chopped\n1/2 cup firm tofu, cubed\n1 medium-sized onion, finely chopped\n3 cloves garlic, minced\n2 tablespoons cooking oil\n2 tablespoons soy sauce\n1 tablespoon fish sauce (patis)\nSalt and pepper to taste\n1/2 cup water\n\nInstructions:\n Rinse the mung bean sprouts thoroughly and set aside.\nJulienne the carrots, chop the green beans, and cube the tofu.\n Finely chop the onion and mince the garlic.\n In a pan, heat the cooking oil over medium heat.\n Sauté the onions until translucent, then add the minced garlic and cook until fragrant.\nAdd the julienned carrots and chopped green beans to the pan. Stir-fry for a few minutes until the vegetables are slightly tender.\nAdd the cubed tofu to the pan and stir-fry until it starts to turn golden brown.\n Add the mung bean sprouts and continue to stir-fry for another 2-3 minutes until they are slightly cooked but still crunchy.\nPour in the soy sauce and fish sauce. Mix well to evenly coat the vegetables and tofu.\n Season with salt and pepper according to your taste.\nPour in the water to create a bit of sauce. Let it simmer for a few minutes to allow the flavors to meld.\nTaste and adjust the seasoning if needed.");
                     break;
                 case "2253":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Potatoes - about 1 kilogram\nButter - 1/4 to 1/2 cup\nMilk - 1/4 to 1/2 cup\nSalt - 1 to 2 teaspoons (adjust to taste)\nPepper - 1/2 teaspoon (adjust to taste)\nOptional: Garlic powder, chives, or other seasonings of your choice\n\nInstructions:\n Peel the potatoes and cut them into evenly-sized chunks.\nPlace the potato chunks in a steamer basket over boiling water.\nSteam the potatoes until they are fork-tender, usually around 15-20 minutes.\nTransfer the steamed potatoes to a large mixing bowl.\n Add butter, salt, and pepper to the potatoes.\nUse a potato masher to mash the potatoes to your desired consistency.\nGradually add the milk while continuing to mash or mix until the potatoes reach your desired creamy consistency. Adjust the amount of milk to achieve the texture you prefer.\nTaste the mashed potatoes and adjust the seasoning, adding more salt, pepper, or other seasonings as needed. Optional: Add garlic powder, chives, or other herbs for extra flavor.\nTransfer the steamed mashed potatoes to a serving bowl and serve them warm.\nGarnish with additional butter, a drizzle of olive oil, or a sprinkle of chopped herbs for added flavor.");
                     break;
                 case "2254":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Stir-Fried Vegetables\n\nIngredients:\n2 cups broccoli florets\n1 bell pepper (any color), sliced\n1 carrot, julienned or sliced into thin strips\n1 cup snap peas, trimmed\n1 cup mushrooms, sliced\n1 small onion, thinly sliced\n3 cloves garlic, minced\n2 tablespoons soy sauce\n1 tablespoon oyster sauce (optional)\n1 tablespoon sesame oil\n2 tablespoons vegetable oil (for cooking)\nSesame seeds and chopped green onions for garnish (optional)\nInstructions:\nHeat vegetable oil in a wok or large skillet over medium-high heat.\nAdd minced garlic and sliced onions to the pan. Stir-fry for about 1-2 minutes until the onions become translucent and the garlic is fragrant.\nAdd broccoli, bell pepper, carrots, snap peas, and mushrooms to the pan. Stir-fry the vegetables for 3-5 minutes, or until they are tender-crisp but still vibrant in color.\nIn a small bowl, mix soy sauce, oyster sauce (if using), and sesame oil.\nPour the sauce over the vegetables and toss to coat evenly. Continue to stir-fry for an additional 1-2 minutes until the vegetables are well-coated and heated through.\nTaste and adjust the seasoning if needed. If you like your vegetables softer, you can cover the pan and cook for an extra 1-2 minutes.\nOnce the vegetables are cooked to your liking, transfer them to a serving dish.\nGarnish with sesame seeds and chopped green onions if desired.");
                     break;
                 case "2255":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("Vegetable egg drop\n\n4 cups vegetable broth\n1 cup mixed vegetables (carrots, peas, corn, and/or chopped spinach)\n2 green onions, thinly sliced\n2 large eggs, beaten\n1 tablespoon soy sauce\n1 teaspoon sesame oil\nSalt and white pepper to taste\n1 tablespoon cornstarch (optional, for thicker consistency)\n\nInstructions:\nIf you're using fresh vegetables like carrots, peas, or spinach, chop them into small, bite-sized pieces.\nIn a pot, bring the vegetable broth to a simmer over medium heat.\nAdd the mixed vegetables to the simmering broth and cook until they are tender. This usually takes about 5-7 minutes.\nSeason the broth with soy sauce, sesame oil, salt, and white pepper. Adjust the seasoning to your taste preference.\nIf you prefer a slightly thicker consistency, mix 1 tablespoon of cornstarch with a bit of water to create a slurry. Stir the slurry into the soup and let it simmer for a few more minutes until it thickens.\nWhile stirring the soup gently in one direction, slowly pour the beaten eggs into the pot. The eggs will cook instantly and create silky ribbons.\nAdd most of the sliced green onions to the soup, reserving a few for garnish.\nLadle the Vegetable Egg Drop Soup into bowls. Garnish with the remaining green onions \n Serve the soup hot as a light and comforting meal.");
                     break;
                 //instant noodles
                 case "2261":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.Write("Instant Pancit Canton Stew\nIngredients:\n1 packs of Pancit Canton\n1 tablespoons cooking oil\n1 or half onion, sliced\n2 cloves garlic, minced\n1/2 cup sliced pork anyting that is available in your home\n1 cup mixed vegetables (carrots, cabbage, green beans), julienned\n1/4 cup soy sauce\n1 tablespoon oyster sauce\n1/2 teaspoon black pepper\n4 cups chicken or vegetable broth\nGreen onions, chopped, for garnish\n\nInstructions:\nBoil water and cook the Pancit Canton noodles according to package instructions. Drain and set aside.\nIn a large pot or wok, heat cooking oil over medium heat.\nSauté onions and garlic until fragrant.\nAdd sliced pork (or chicken) and cook until browned.\nAdd mixed vegetables and stir-fry for a few minutes until they start to soften.\nPour soy sauce or oyster sauce over the vegetables and meat. Mix well.\nPour in the chicken or vegetable broth. Bring the mixture to a simmer.\nAdd the cooked noodles to the pot and mix them into the broth.\nSeason with black pepper to taste.\nSimmer for a few more minutes until the noodles have absorbed some of the broth.\nchopped green onions.\nready to serve");
                     break;
                 case "2262":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Sesame Ginger Tofu Noodle Bowl\n\nIngredients:\n200g (7 oz) firm tofu, pressed and cubed\n200g (7 oz) udon noodles or your favorite noodles\n1 tablespoon sesame oil\n2 tablespoons soy sauce\n1 tablespoon of honey\n2 cloves garlic, minced\n2 green onions, sliced (for garnish)\n\nInstructions:\nPrepare Tofu:\nPress the tofu to remove excess water. Cut it into cubes.\nCook Noodles:\n\nCook the udon noodles according to the package instructions. Drain and set aside.\nSauté Tofu:\nHeat sesame oil in a large skillet over medium heat. Add tofu cubes and cook until golden brown on all sides.\nPrepare Sauce:\nIn a small bowl, whisk together soy sauce, honey, grated ginger, and minced garlic.\nCombine Tofu and Noodles:\nPour the sauce over the sautéed tofu in the skillet. Add cooked noodles and toss everything together until well-coated.\nToast Sesame Seeds:\nIn a dry pan, toast sesame seeds until golden brown. Sprinkle toasted sesame seeds over the tofu and noodles.");
                     break;
                 case "2263":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Steamed Instant Noodles with Teriyaki Salmon and Bok Choy\n\nIngredients:\n1packet of instant noodles\n2 salmon fillets\n2 baby bok choy, halved\n3 tablespoons teriyaki sauce\n1 tablespoon soy sauce\n1 tablespoon mirin (Japanese sweet rice wine)\n1 tablespoon sesame oil\n1 tablespoon honey\n2 cloves garlic, minced\n1  teaspoon ginger, grated\nSesame seeds (for garnish)\nGreen onions, sliced (for garnish)\n\nInstructions:\nPrepare Noodles:\nCook the instant noodles according to the package instructions, reducing the cooking time by 1-2 minutes.\nPrepare Teriyaki Salmon:\nIn a bowl, mix teriyaki sauce, soy sauce, mirin, sesame oil, honey, minced garlic, and grated ginger. Marinate salmon fillets in the mixture for 15-30 minutes.Steam Salmon and Bok Choy:Place the marinated salmon fillets and halved bok choy on a heatproof dish suitable for steaming. Pour any remaining teriyaki sauce over the salmon.\nSteam for about 12-15 minutes or until the salmon is cooked through and the bok choy is tender.\nCombine with Noodles:\nIn a large mixing bowl, toss the slightly undercooked noodles with flaked teriyaki salmon and steamed bok choy.\nGarnish:\nGarnish with sesame seeds and sliced green onions.\nServe Hot:\nServe the Steamed Instant Noodles with Teriyaki Salmon and Bok Choy hot, and savor the delightful combination of flavors!");
                     break;
                 case "2264":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Mild Chicken and Vegetable Fried Noodles\n\nIngredients:\n1 packet of instant noodles\n1 cups cooked chicken, shredded\n1 cup mixed vegetables\n1 tbsp soy sauce\n1 tbsp oyster sauce\n1 tbsp vegetable oil\n2 cloves garlic, minced\n1 tsp grated ginger\n\nInstructions:\nCook instant noodles; set aside.\nSauté garlic and\nginger in vegetable oil.\nAdd shredded chicken and mixed vegetables; stir-fry.\nAdd cooked noodles, soy sauce, and oyster sauce.\nToss until well coated.\nGarnish with sesame seeds and green onions.\nServe hot.\nEnjoy your Mild Chicken and Vegetable Fried Noodles!");
                     break;
                 case "2265":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("\n\nIngredients:\n500g frozen beef stew meat\n1 onion, chopped\n2 cloves garlic, mincedn2 carrots, sliced\n2 potatoes, diced\n1 cup frozen peas\n4 cups beef broth\n2 tablespoons tomato paste\n1 teaspoon dried thyme\n1 bay leaf\nSalt and pepper to taste\n\nInstructions:\nIn a large pot or Dutch oven, sauté the chopped onion and minced garlic until fragrant.\nAdd the frozen beef stew meat and brown it on all sides.\nir in the sliced carrots, diced potatoes, and frozen peas.\nPour in the beef broth and add the tomato paste, dried thyme, bay leaf, salt, and pepper. Stir well to combine.\nBring the stew to a boil, then reduce the heat to low. Cover and simmer for about 1.5 to 2 hours, or until the beef is tender and the vegetables are cooked through. Stir occasionally.\nAdjust seasoning if needed before serving.\nThis hearty beef stew should be a comforting and satisfying meal!");
                     break;
                 //frozen foods
                 case "2271":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.WriteLine("Beef and Vegetable Stew\n\nIngredients:\n1.5 pounds stew beef, cut into bite-sized pieces\n2 tablespoons olive oil\n1 large onion, diced\n3 cloves garlic, minced\n2 carrots, peeled and chopped\n2 parsnips, peeled and chopped\n2 potatoes, peeled and diced\n1 cup frozen peas\n4 cups beef broth\n1 can (14 ounces) diced tomatoes\n1/2 cup red wine (optional)\n2 tablespoons tomato paste\n1 teaspoon dried thyme\n2 bay leaves\nSalt and pepper to taste\n1/4 cup all-purpose flour (for coating the beef)\n\nInstructions:\nIn a large bowl, toss the stew beef with flour until evenly coated.\nIn a large pot or Dutch oven, heat olive oil over medium-high heat.\nBrown the coated beef in batches until it develops a nice crust. Remove the beef and set it aside.\nIn the same pot, add diced onions and minced garlic. Sauté until the onions are translucent.\nPour in the red wine (if using) to deglaze the pot, scraping up any browned bits from the bottom.\nAdd the browned beef back into the pot, along with carrots, parsnips, potatoes, frozen peas, diced tomatoes, beef broth, tomato paste, thyme, bay leaves, salt, and pepper. Stir well.\nBring the stew to a boil, then reduce the heat to low, cover, and let it simmer for about 1.5 to 2 hours, or until the beef is tender and the flavors have melded.\nAllow the stew to cool before dividing it into portions suitable for freezing.");
                     break;
                 case "2272":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Chicken noodle\n\nIngredients:\n1 tablespoon olive oil\n1 onion, diced\n2 carrots, sliced\n2 celery stalks, sliced\n3 cloves garlic, minced\n1 teaspoon dried thyme\n1 bay leaf\nSalt and pepper to taste\n8 cups chicken broth (homemade or store-bought)\n2 cups cooked chicken, shredded (rotisserie chicken works well)\n2 cups egg noodles\n1 cup frozen peas\nFresh parsley, chopped, for garnish\n\nnstructions:\nIn a large pot or Dutch oven, heat olive oil over medium heat. Add diced onions, sliced carrots, and sliced celery. Cook until the vegetables are softened, about 5-7 minutes.\nAdd minced garlic, dried thyme, bay leaf, salt, and pepper. Stir and cook for an additional 1-2 minutes until the garlic becomes fragrant.\nPour in the chicken broth and bring the mixture to a boil. Reduce the heat to low and let it simmer for about 10-15 minutes to allow the flavors to meld.\nAdd the shredded cooked chicken, egg noodles, and frozen peas to the pot. Cook for an additional 8-10 minutes or until the noodles are tender.\nTaste the soup and adjust the seasoning as needed. Remove the bay leaf before serving.\nLadle the chicken noodle soup into bowls and garnish with fresh chopped parsley.");
                     break;
                 case "2273":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Steamed Fish and Vegetables\n\nIngredients:\n2 white fish fillets\n1 cup broccoli florets\n1 sliced carrot\n1\nsliced bell pepper\n2 tbsp soy sauce\n1 tbsp sesame oil\n1 tbsp rice vinegar\n1 tsp grated ginger\n2 cloves minced garlic\nSalt and pepper to taste\nSesame seeds and green onions for garnish (optional)\n\nInstructions:\nMarinate fish in a mix of soy sauce, sesame oil, rice vinegar, ginger, and garlic for 10-15 minutes.\nArrange fish, broccoli, carrot, and bell pepper in a steamer basket\nSteam for 10-12 minutes until fish is cooked and veggies are tender.\nNerve over rice or quinoa, garnish with sesame seeds and green onions.");
                     break;
                 case "2274":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Fried Shrimp Tacos\n\nIngredients:\n1 lb frozen breaded shrimp\n8 small tortillas\n1 cup shredded cabbage\n1/2 cup diced tomatoes\n1/4 cup chopped cilantro\n1/4 cup sour cream\nLime wedges\nHot sauce (optional)\nSalt and pepper to taste\nCooking oil\n\nInstructions:\nCook frozen breaded shrimp according to package instructions.\nWarm tortillas.\nAssemble tacos with cabbage, shrimp, tomatoes, cilantro.\nTop with sour cream and squeeze lime over tacos.\nSeason with salt, pepper, and add hot sauce if desired.\nServe and enjoy these quick and tasty shrimp tacos!");
                     break;
                 case "2275":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("A bag of frozen mixed vegetables (peas, carrots, corn, green beans, etc.)\n\nInstructions:\nIn a pot, add the frozen mixed vegetables.\nPour in your preferred broth (vegetable, chicken, or beef).\nBring the mixture to a boil and then reduce heat to a simmer.\nOptionally, add additional ingredients such as cooked chicken, rice, pasta, or beans for a heartier soup.\nSeason with herbs, salt, and pepper to taste.\nAllow the soup to simmer until the vegetables are tender and the flavors meld.\nServe hot and enjoy your quick and easy mixed vegetable soup!");
                     break;
                 //pork
                 case "2281":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.WriteLine("Filipino Pork Adobo Stew\nIngredients:\n1.5 kg pork belly or shoulder, chunks\n1 cup soy sauce\n1 cup vinegar\n1 onion, thinly sliced\n5 cloves garlic, minced\n2 bay leaves\n1 tsp peppercorns\n1 cup water\n2 tbsp cooking oil\nSalt and pepper to taste\n\nInstructions:\nMarinate pork in soy sauce, vinegar, garlic, bay leaves, and peppercorns for at least 30 minutes.\nSauté onions in oil until translucent.\nAdd marinated pork and brown on all sides.\nPour in water, bring to a boil, then simmer covered for 1.5-2 hours until pork is tender.\nAdjust seasoning with salt and pepper.\nGarnish with green onions.\nServe hot with rice.\nEnjoy your Quick Filipino Pork Adobo Stew!");
                     break;
                 case "2282":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Sauteed boneless pork chops\n\nIngredients:\n2 tablespoons butter\n1 tablespoon oil\n1 end pork loin roast (boneless rib, cut into 6 generous 1-inch thick chops, each chop pressed lightly with fingertips to flatten)\nSalt and ground black pepper\n1/4 cup flour\n1 pan sauce\n\nInstructions:\nHeat the butter and oil in a large skillet over medium-high heat.\nSeason the pork chops with salt and pepper.\nDredge the pork chops in flour, shaking off any excess.\nAdd the pork chops to the skillet and cook until golden brown and cooked through, about 5 minutes per side.\nRemove the pork chops from the skillet and let them rest for a few minutes.\nServe the pork chops with the pan sauce.");
                     break;
                 case "2283":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2284":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Tulapho cirspy fried pork\n\nIngredients:\n1 lb. pork belly sliced\n4 pieces dried bay leaves\n1 ½ tablespoons rock salt or coarse sea salt\n¼ teaspoon ground black pepper\n4 cups water\nInstructions:\nPour water in a cooking pot. Bring to a boil. Add salt, pepper, and bay leaves. Slide-in the pork and let the water re-boil. Cover and boil in medium heat until the pork gets tender. You can add more water if needed.\nOnce the pork is tender, remove the cover. Adjust the heat to medium and then cook while stirring until the water completely evaporates.\nContinue to fry the pork in its own oil while constantly flipping it over until it turns golden brown.\nRemove the pork from the cooking pot or pan and transfer to plate with paper towel.\nYou can serve it as it is or use it as an ingredient in other Filipino dishes.Ingredients:\n1 lb. pork belly sliced\n4 pieces dried bay leaves\n1 ½ tablespoons rock salt or coarse sea salt\n¼ teaspoon ground black pepper\n4 cups water\nInstructions:\nPour water in a cooking pot. Bring to a boil. Add salt, pepper, and bay leaves. Slide-in the pork and let the water re-boil. Cover and boil in medium heat until the pork gets tender. You can add more water if needed.\nOnce the pork is tender, remove the cover. Adjust the heat to medium and then cook while stirring until the water completely evaporates.\nContinue to fry the pork in its own oil while constantly flipping it over until it turns golden brown.\nRemove the pork from the cooking pot or pan and transfer to plate with paper towel.\nYou can serve it as it is or use it as an ingredient in other Filipino dishes.");
                     break;
                 case "2285":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("Vegetables pork soup\n\nIngridients:\n1 tablespoon butter\n8 ounces boneless pork loin (chops, cut into 1/2-inch cubes)\n1/2 pound Polish sausage (or smoked kielbasa, chopped)\n1 small onion (chopped)\n2 celery ribs (chopped)\n1 large carrot (chopped)\n2 garlic cloves (minced)\n1/2 teaspoon paprika\n32 ounces reduced-sodium chicken broth\n1 large tart apple (peeled and chopped)\n2 medium red potatoes (chopped)\n1/2 teaspoon Chinese\nfive-spice powder\n2 teaspoons honey\nInstructions:\nIn a large saucepan, melt butter over medium heat; add pork, sausage, onion, celery, and carrot. Cook and stir until pork is no longer pink and vegetables are crisp-tender, 4-5 minutes.\nAdd garlic and paprika; cook 1 minute longer.\nStir in broth, apple, potatoes, five-spice powder, and honey. Bring to a boil.\nReduce heat; cover and simmer until potatoes are tender, 20-25 minutes.");
                     break;
-              //high appetite
+                //high appetite
                 //chicken
                 case "2311":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.WriteLine("Spicy Chicken and Vegetable Stew\nIngredients:\n2 pounds of chicken (bone-in, skin-on thighs or a mix of thighs and drumsticks)\n2 tablespoons olive oil\n1 large onion, chopped\n3 cloves garlic, minced\n3 carrots, peeled and sliced\n3 celery stalks, sliced\n1 potatoes, peeled and diced\nSalt and pepper to taste\n1 teaspoon  paprika\n1/2 teaspoon cayenne pepper (adjust to taste)\n1 can diced tomatoes (14 oz)\n4 cups chicken broth\n1 cup water\nInstructions:\nBrown the Chicken:\nHeat olive oil in a large pot or Dutch oven over medium-high heat.\nSeason chicken with salt, pepper, cumin, smoked paprika, and cayenne pepper.\nBrown the chicken pieces on all sides. Once browned, remove the chicken from the pot and set it aside.\nSauté Vegetables:\nIn the same pot, add chopped onions and garlic. Sauté until the onions are translucent.\nAdd carrots, celery, and potatoes. Cook for a few minutes until the vegetables start to soften.\nCombine Ingredients:\nReturn the browned chicken to the pot.\nAdd diced tomatoes (with their juices), dried thyme, bay leaf, salt, and pepper.\nPour in chicken broth and water.\nSimmer:\nBring the mixture to a boil, then reduce the heat to low.\nCover and simmer for about 30-40 minutes or until the chicken is cooked through and the vegetables are tender.");
                     break;
                 case "2312":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Chicken Tinola\nIngredients:\n2 pounds chicken, cut into serving pieces\n2 tablespoons cooking oil\n1 onion, peeled and sliced\n3 cloves garlic, minced\n1 thumb-sized ginger, peeled and julienned\n2 tablespoons fish sauce (patis)\n4 cups water\n1 medium-sized green papaya or chayote, peeled and sliced\n1 bunch malunggay\nleaves (moringa leaves) or spinach\nSalt and pepper to taste\nInstructions:\nSauté Aromatics:\nIn a pot, heat cooking oil over medium heat.\nSauté sliced onions, minced garlic, and julienned ginger until fragrant.\nAdd Chicken and Fish Sauce:\nAdd the chicken pieces to the pot and cook until they are lightly browned.\nPour in the fish sauce and stir to coat the chicken.\nAdd Water:\nPour in the water and bring the mixture to a boil.\nLower the heat and let it simmer until the chicken is almost tender.\nAdd Vegetables:\nAdd the sliced green papaya or chayote. Simmer until the vegetables are tender.\nAdd Malunggay Leaves or Spinach:\nOnce the chicken and vegetables are cooked, add the malunggay leaves or spinach.\nLet it simmer for a few more minutes until the leaves are wilted.");
                     break;
                 case "2313":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Chinese Steamed Chicken with Ginger and Green Onions\nIngredients:\n1 whole chicken (about 3-4 pounds)\n4 slices of ginger\n3 stalks of green onions, cut into 2-inch pieces\n2 tablespoons soy sauce\n1 tablespoon oyster sauce\n1 teaspoon sesame oil\n1 teaspoon sugar\nSalt, to taste\n\nInstructions:\nClean and Prepare the Chicken\nClean the chicken thoroughly, removing any excess fat and innards.\nPat the chicken dry with paper towels.\nMarinate the Chicken:\nRub the chicken with salt, both inside and outside.\nIn a bowl, mix soy sauce, oyster sauce, sesame oil, and sugar to create the marinade.\nRub the marinade all over the chicken, including inside the cavity. Place ginger slices inside the cavity as well.\nLet the chicken marinate for at least 30 minutes.\nPrepare the Steamer:\nFill a steamer with water and bring it to a boil.\nSteam the Chicken:\nPlace the marinated chicken on a heatproof plate or in a steaming basket. Place the green onion pieces on top of and around the chicken.\nOnce the water is boiling, place the plate or basket in the steamer. Cover and steam for about 40-50 minutes or until the chicken is cooked through. Ensure the internal temperature reaches 165°F (74°C).\nGarnish and Serve:\nOnce done, remove the chicken from the steamer.\nServe:\nServe the Chinese Steamed Chicken with steamed rice and your favorite dipping sauce.");
                     break;
                 case "2314":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Buffalo Style Fried Chicken\nIngredients:\n3 pounds chicken wings or drumsticks\n1 cup buttermilk\n1 cup all-purpose flour\n1 teaspoon garlic powder\n1 teaspoon onion powder\n1 teaspoon paprika\n1/2 teaspoon cayenne pepper (adjust to taste)\nSalt and black pepper to taste\nVegetable oil for frying\nBuffalo Sauce:\n1/2 cup unsalted butter\n1/2 cup hot sauce (such as Frank's RedHot)\n1 tablespoon white vinegar\n1/2 teaspoon Worcestershire sauce\n1/2 teaspoon garlic powder\n1/4 teaspoon cayenne pepper (adjust to taste)\nSalt to taste\n\nInstructions:\nMarinate the Chicken:\nIn a bowl, soak the chicken pieces in buttermilk for at least 1 hour (or overnight) in the refrigerator.\nPrepare the Coating:\nIn a shallow dish, mix the flour, garlic powder, onion powder, paprika, cayenne pepper, salt, and black pepper.\nCoat the Chicken:\nRemove each piece of chicken from the buttermilk, allowing excess liquid to drip off.\nDredge each piece in the seasoned flour mixture, pressing the flour onto the chicken to ensure it adheres.\nHeat the Oil:\nIn a large, deep skillet or Dutch oven, heat about 2 inches of vegetable oil to 350-375°F (175-190°C).\nFry the Chicken:\nCarefully place a few pieces of chicken into the hot oil, being cautious not to overcrowd the pan. Fry each piece until golden brown and cooked through, turning occasionally for even cooking. This usually takes about 15-20 minutes, depending on the size of the chicken pieces.\nMake Buffalo Sauce:\nIn a saucepan, melt the butter over medium heat.\nStir in the hot sauce, white vinegar, Worcestershire sauce, garlic powder, cayenne pepper, and salt.\nSimmer for a few minutes, stirring occasionally.\nCoat the Fried Chicken:\nToss the fried chicken pieces in the prepared Buffalo sauce until they are well-coated.");
                     break;
                 case "2315":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("Chicken Arroz Caldo\nIngredients:\n1 cup glutinous rice (malagkit)\n1 cup regular rice\n1 whole chicken, cut into serving pieces\n1 onion, chopped\n4 cloves garlic, minced\nGinger, sliced into thin strips\nFish sauce (patis) to taste\nGround black pepper to taste\nChicken broth or water\nHard-boiled eggs, sliced green onions, and fried garlic for garnish\nInstructions:\nIn a large pot, sauté garlic, onions, and ginger.\nAdd the chicken pieces and cook until browned.\nPour in the rice and glutinous rice. Stir to coat.\nAdd enough chicken broth or water to cover the mixture. Season with fish sauce and pepper.\nSimmer until the rice is cooked and the soup thickens.\nServe hot with hard-boiled eggs, sliced green onions, and fried garlic on top.");
                     break;
                 //canned
                 case "2321":
                     Console.Clear();
-                    Console.WriteLine("1121");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2322":
                     Console.Clear();
-                    Console.WriteLine("1122");
+                    Console.WriteLine("Tuna sisig\n1 canned tuna \n1 small sized onion\n1 ½ tbsp oil\nsalt and pepper to taste\n1 small egg\nDirection:\nDrain the oil from the tuna\nOn a heated pan, put 1 ½ tbsp oil, once oil is heated, sautee drained tuna\nWhen the tuna turns golden brown and slightly crispy, put the diced onion\nPut salt and pepper to taste \nCreate a hole in the middle, then put the egg\nOnce done, plate, then serve.");
                     break;
                 case "2323":
                     Console.Clear();
-                    Console.WriteLine("1123");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2324":
                     Console.Clear();
-                    Console.WriteLine("1124");
+                    Console.WriteLine("Fried Canned Chili\n\nIngredients:\n2 cans (15 ounces each) of your favorite chili (with or without beans)\n1 pound ground beef or turkey\n1 onion, finely chopped\n2 cloves garlic, minced\n1 teaspoon ground cumin\n1 teaspoon chili powder\nSalt and pepper to taste\n1 cup shredded cheddar cheese\nSour cream and chopped green onions for garnish\nTortilla chips or cornbread for serving\n\nInstructions:\nIn a large skillet, brown the ground beef or turkey over medium-high heat. Drain any excess fat.\nAdd chopped onions and minced garlic to the skillet. Sauté until the onions are softened.\nStir in ground cumin and chili powder. Season with salt and pepper to taste.\nAdd the canned chili to the skillet, combining it with the cooked meat and spices. Mix well.\nAllow the mixture to simmer for about 10-15 minutes, stirring occasionally, to let the flavors meld.\nIn a separate pan, heat a bit of oil over medium-high heat. Transfer a portion of the chili mixture to the pan and\nlet it fry for a few minutes until it develops a slightly crispy texture.\nServe the fried chili over tortilla chips or with a side of cornbread.\nGarnish with shredded cheddar cheese, a dollop of sour cream, and chopped green onions.");
                     break;
                 case "2325":
                     Console.Clear();
-                    Console.WriteLine("1125");
+                    Console.WriteLine("Hearty Lentil Soup\n\nIngredients:\n2 cans (15 ounces each) canned lentil soup\n1 can (14 ounces) diced tomatoes (optional)\n1 cup cooked and diced ham or smoked sausage\n1 onion, chopped\n2 carrots, dicedn2 celery stalks, diced\n3 cloves garlic, minced\n1 teaspoon dried thyme\n1 teaspoon smoked paprika\nSalt and pepper to taste\n4 cups chicken or vegetable broth\n2 tablespoons olive oil\nFresh parsley, chopped, for garnish\nCrusty bread for serving\n\nInstructions:\nIn a large pot, heat olive oil over medium heat. Add chopped onions, diced carrots, and diced celery. Cook until the vegetables are softened.\nAdd minced garlic, dried thyme, and smoked paprika. Stir and cook for an additional 1-2 minutes.\nPour in the canned lentil soup, diced tomatoes (if using), and chicken or vegetable broth. Bring the mixture to a simmer.\nAdd the cooked and diced ham or smoked sausage to the pot. Stir well and let it simmer for about 15-20 minutes.\nSeason with salt and pepper to taste. Adjust the spices as needed.\nOnce the soup is heated through and the flavors have melded, serve hot.\nGarnish with fresh chopped parsley and serve with crusty bread.");
                     break;
                 //fish
                 case "2331":
                     Console.Clear();
-                    Console.WriteLine("1131");
+                    Console.WriteLine("Quick and easy fish stew\nIngredients:\n1 1/2 pounds firm white fish (such as halibut or cod)\n1/2 cup white wine\n1/2 cup water\n1/2 cup clam juice\n1 can (14.5 ounces) diced tomatoes\n1/2 teaspoon dried thyme\n1/2 teaspoon dried oregano\n1/2 teaspoon salt\n1/4 teaspoon black pepper\n1/4 cup chopped fresh parsley\nInstructions:\nCut the fish into 1-inch pieces.\nIn a large pot, combine the white wine, water, clam juice, tomatoes, thyme, oregano, salt, and pepper. Bring to a boil over high heat.\nReduce the heat to low and simmer for 10 minutes.\nAdd the fish to the pot and cook for 5 minutes, or until the fish is cooked through.\nStir in the parsley and serve hot.");
                     break;
                 case "2332":
                     Console.Clear();
-                    Console.WriteLine("1132");
+                    Console.WriteLine("Tilapia steak\n\nIngredients:\n1 Tilapia Oil for frying\nsalt and pepper\n 3 tbsp soy sauce\n 2 tbsp calamansi\n30g oyster sauce\n1/2 tbsp cornstarch\nblack pepper\n1/4 cup water\n1 medium onion\n3 cloves garlic\n\nInstructions:\nClean and rinse the tilapia and make sure all the scales are removed. Then cut the fish horizontally to your desired size.\n Season the tilapia with salt and pepper. Make sure that all surface are seasoned by gently rubbing the salt and pepper to the tilapia and set aside for 15 minutes.\nPut oil into the pan and fry the tilapia until golden brown and set aside.Mix the soy sauce, calamansi, oyster sauce, cornstarch, pepnper, and water into a bowl.\nThen sautee the onion and garlic into the pan for 2-3 minutes.\nPour in the mixture of soy sauce, calamansi, oyster sauce, etc. into the pan and wait for the mixture to thicken before adding in the tilapia and cook for another 2-3 minutes before transferring to a plate.");
                     break;
                 case "2333":
                     Console.Clear();
-                    Console.WriteLine("1133");
+                    Console.WriteLine("Steamed tilapia\n\nIngredients:\n2 tilapia\n2 tablespoons soy sauce\n1 tablespoon oyster sauce\nn2 teaspoons ginger, finely chopped\n2 cloves garlic, minced\n1 tablespoon vegetable oil (for greasing the steaming plate)\nSalt and pepper to taste\n\nInstructions:\nClean the tilapia under cold water properly and pat them dry with paper towels. Make sure there are no scales or bones left.\nIn a small bowl, mix together soy sauce, oyster sauce, chopped ginger, and minced garlic. This will be the marinade for the fish.\nPlace the tilapia in a shallow dish or a resealable plastic bag. Pour the marinade over the fish, making sure it coats both sides. Allow the fish to marinate for at least 15-20 minutes.\nWhile the fish is marinating, fill a steamer with water and bring it to a boil. If you don't have a steamer, you can use a large pot with a steaming rack.\nLightly grease a heatproof plate or the steaming rack with oil. This will prevent the fish from sticking.\nPlace the marinated tilapia fillets on the greased plate or steaming rack. Place the plate or rack in the steamer, cover, and steam for about 10-15 minutes, or until the fish is cooked through and flakes easily with a fork.\nOnce the tilapia is cooked, carefully remove it from the steamer.");
                     break;
                 case "2334":
                     Console.Clear();
-                    Console.WriteLine("1134");
+                    Console.WriteLine("Fried sapsap\n\nIngredients:\n6 sapsap\n2 tablespoons cooking oil (vegetable or any neutral oil \nInstructions:\nClean and scale the sapsap, removing the innards.Rinse them under cold water and pat dry with paper towels.\nIn na pan, heat the cooking oil over medium heat.\nFry the sapsapfor about 5 minutes on each side or until they become crispy and golden brown. \nTransfer the fried sapsap into a plate.");
                     break;
                 case "2335":
                     Console.Clear();
-                    Console.WriteLine("1135");
+                    Console.WriteLine("Pan-Fried Salmonete\n\nIngredients:\n4 salmonete fillets\nSalt and pepper to taste\n1 cup all-purpose flour Cooking oil for frying\nLemon wedges for serving\nFresh parsley, chopped (optional, for garnish)\n\nInstructions:\nPrepare the Salmonete:\nEnsure the salmonete fillets are clean and pat them dry with paper towels.\nSeason both sides of the fillets with salt and pepper.\nCoat with Flour:\nHeat Cooking Oil:\nIn a large pan, heat enough cooking oil over medium-high heat for shallow frying.\nFry the Salmonete:\nDredge each salmonete fillet in all-purpose flour, ensuring an even coating.\nCarefully place the floured salmonete fillets in the hot oil. Fry for 3-4 minutes on each side or until the fish is golden brown and cooked through.\nDrain Excess Oil:\nPlace the fried salmonete on a plate lined with paper towels to absorb any excess oil.");
                     break;
                 //beef
                 case "2341":
                     Console.Clear();
-                    Console.WriteLine("1141");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2342":
                     Console.Clear();
-                    Console.WriteLine("1142");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2343":
                     Console.Clear();
-                    Console.WriteLine("1143");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2344":
                     Console.Clear();
-                    Console.WriteLine("1144");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2345":
                     Console.Clear();
-                    Console.WriteLine("1145");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 //vegetable
                 case "2351":
                     Console.Clear();
-                    Console.WriteLine("1151");
+                    Console.WriteLine("1 bunch long green beans (sitaw), ends trimmed and cut into 2 to 3-inch pieces\n2 tablespoons cooking oil\n1 onion, peeled and sliced thinly\n4 cloves garlic, minced\n200 grams pork belly or pork shoulder, sliced into thin strips (optional)\n3 tablespoons soy sauce\n2 tablespoons vinegar\n1 teaspoon sugar\nSalt and pepper to taste\nRed chili peppers (optional, for spice)\n1/2 cup water\nInstructions:\n Trim the ends of the long green beans (sitaw) and cut them into 2 to 3-inch pieces.\nIn a pan, heat cooking oil over medium heat. Sauté sliced onions until translucent.\nAdd minced garlic and continue to sauté until aromatic.\nIf using pork, add the sliced pork to the pan. Cook until the pork is browned.\nAdd the cut long green beans (sitaw) to the pan. Stir-fry for a few minutes until the beans are slightly tender.\nPour in soy sauce, vinegar, and sugar into the pan. Stir to combine.\nIf you prefer a bit of spice, you can add red chili peppers at this point.\nAdd 1/2 cup of water to the pan. Allow the Adobong Sitaw to simmer over medium heat until the beans are fully cooked and the sauce has thickened.\nOnce the Adobong Sitaw is cooked to your liking and the sauce has thickened, remove from heat.");
                     break;
                 case "2352":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Ingredients:\n2 tbsp olive oil\n1 onion, sliced\n3 cloves garlic, minced\n1 bell pepper, sliced\n1 zucchini, sliced\n1 cup broccoli florets\n1 cup cherry tomatoes, halved\n1 cup mushrooms, sliced Salt, pepper, oregano, paprika, red pepper flakes to taste\nFresh herbs for garnish\nOptional: Parmesan cheese\n\nInstructions:\nHeat olive oil; sauté onion and garlic until fragrant.\nAdd bell pepper, zucchini, broccoli, tomatoes, and mushrooms; stir-fry for 5-7 minutes.\nSeason with salt, pepper, oregano, paprika, and red pepper flakes.\nGarnish with fresh herbs; optionally, sprinkle Parmesan cheese.\nServe as a side or over rice, quinoa, or pasta. Enjoy!");
                     break;
                 case "2353":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Ingredients:\nAssorted vegetables\n2 tbsp butter\n1 tbsp fresh lemon juice\n2 tsp chopped fresh herbs\nSalt and pepper to taste\nOptional: Lemon zest for garnish\nInstructions:\nSteam assorted vegetables until tender (about 5-7 minutes).\nIn a saucepan, melt butter, add lemon juice, and stir in chopped herbs.\nPour lemon-herb butter over steamed vegetables, season with salt and pepper.nToss gently to coat evenly.nOptional: Garnish with lemon zest.nServe immediately as a flavorful and satisfying side dish. Enjoy!");
                     break;
                 case "2354":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Fried sweet potato\n2 medium-sized sweet potatoes, peeled and sliced into thin rounds or matchsticks\nVegetable oil for frying\nSalt to taste\nOptional seasonings: cinnamon, paprika, cayenne pepper, or brown sugar for added flavor\n\nInstructions:\n Peel the sweet potatoes and cut them into thin rounds or matchsticks, depending on your preference\nIf you're slicing them into rounds, aim for a thickness of about 1/4 inch. If making matchsticks, try to keep them evenly sized for even cooking.\n Place the sweet potato slices or matchsticks in a bowl of cold water and let them soak for about 30 minutes. This helps remove excess starch and makes the fries crispier.\n Drain the sweet potatoes and pat them dry with paper towels. Removing excess moisture is crucial for achieving crispy fries.\nIn a deep fryer or a large, deep pan, heat enough vegetable oil to submerge the sweet potato slices. \nCarefully add a handful of sweet potato slices to the hot oil, ensuring not to overcrowd the pan. Fry in batches if necessary to avoid sticking.\nFry until the sweet potatoes are golden brown and crispy, which should take about 3-5 minutes, depending on the thickness of the slices. Use a slotted spoon or tongs to remove them from the oil.\nPlace the fried sweet potatoes on a plate lined with paper towels to drain excess oil.\nWhile still hot, season the sweet potato fries with salt and any optional seasonings like cinnamon, paprika, cayenne pepper, or brown sugar for added flavor.");
                     break;
                 case "2355":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("Miswa at patola soup\n\nIngridients\n1 cup miswa noodles\n1 medium-sized patola (luffa gourd), peeled and sliced\n1 medium-sized onion, peeled and sliced\n2 cloves garlic, minced\n1 medium-sized tomato, sliced\n8 cups water or broth (vegetable or chicken)\nFish sauce or salt to taste\nGround black pepper to taste\nInstructions:\nPeel and slice the patola (luffa gourd) into thin rounds.\nSlice the onion, mince the garlic, and slice the tomato.\nIn a pot, sauté the minced garlic and sliced onion until the onion becomes transluce\n Add the sliced tomatoes to the pot and cook until they are soft.\nPour in the water or broth. Bring it to a boil.\nSeason the soup with fish sauce or salt according to your taste. Add ground black pepper for additional flavor.\nOnce the broth is boiling, add the sliced patola (luffa gourd) to the pot. Let it simmer until the patola is tender but not overly soft.\nAdd the miswa noodles to the pot. Miswa noodles cook very quickly, usually within 2-3 minutes. Stir gently to avoid breaking the noodles.");
                     break;
                 //instant noodles
                 case "2361":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.WriteLine("Seafood Instant Noodles Stew\nIngredients:\n8 cups fish or seafood broth (store-bought or homemade)\n2 packs of your favorite seafood-flavored instant noodles\n1/2 pound shrimp, peeled and deveined\n1/2 pound mussels, cleaned and debearded\n1/2 pound squid, cleaned and sliced into rings\n2 cloves garlic, minced\n1 tablespoon ginger, grated\n1 red bell pepper, thinly sliced\n1 cup baby spinach or bok choy, chopped\n2 tablespoons soy sauce\n1 tablespoon fish sauce\n1 tablespoon sesame oil\nSalt and pepper to taste\nFresh cilantro and lime wedges for garnis\n\nInstructions:\nIn a large pot, bring the seafood or fish broth to a simmer.\nAdd the minced garlic and grated ginger to the broth. Allow it to simmer for a few minutes to infuse the flavors.\nAdd the sliced bell pepper and baby spinach or bok choy to the pot. Cook until the vegetables are slightly tender.\nStir in the soy sauce, fish sauce, and sesame oil. Season with salt and pepper to taste.\nAdd the shrimp, mussels, and squid to the pot. Cook for a few minutes until the seafood is cooked through. Be careful not to overcook the seafood.\nWhile the seafood is cooking, prepare the instant noodles according to the package instructions. Drain and set aside.\nDivide the cooked instant noodles among serving bowls.\nLadle the seafood and vegetable mixture over the noodles.\nGarnish with fresh cilantro and serve with lime wedges on the side.\nEnjoy your delicious Seafood Instant Noodles Stew! Feel free to adjust the ingredients and seasoning according to your taste preferences.");
                     break;
                 case "2362":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Pansit Canton Guisado\nIngredients:\n2 packs of Pancit Canton (Filipino instant noodles)\n2 tablespoons cooking oil\n1 onion, sliced\n3 cloves garlic, minced\n1/2 pound pork, thinly sliced\n1/2 pound chicken, thinly sliced\n1 cup mixed vegetables (carrots, cabbage, green beans)\nn2 tablespoons soy sauce\n1 tablespoon oyster sauce\n1 teaspoon fish sauce (optional)\n1/2 teaspoon black pepper\nGreen onions, chopped, for garnish\nCalamansi or lemon wedges, for serving\n\nInstructions:\nPrepare the Instant Noodles:\nBoil water and cook the Pancit Canton noodles according to package instructions. Drain and set aside.\nSaute the Meats and Vegetables:\nIn a large pan or wok, heat cooking oil over medium-high heat.\nSaute onions and garlic until aromatic.\nAdd sliced pork and chicken. Cook until they are browned and cooked through.\nAdd mixed vegetables and stir-fry until they are slightly tender.\nCombine with Instant Noodles:\nAdd the cooked Pancit Canton noodles to the pan with the sautéed meats and vegetables.\nPour soy sauce, oyster sauce, and fish sauce (if using) over the noodles. Sprinkle black pepper.\nToss everything together until the noodles are well-coated and ingredients are evenly distributed.");
                     break;
                 case "2363":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Steamed Instant Noodles with Vegetables and Chicken\n\nIngredients:\n1 packet of instant noodles\n1 cup cooked chicken, shredded\n1 cup mixed vegetables (carrots, broccoli, bell peppers), thinly sliced\n2 tablespoons soy sauce\n1 tablespoon oyster sauce\n1 tablespoon sesame oil\n2 cloves garlic, minced\n1 teaspoon ginger, grated\n1 green onion, sliced (for garnish)\nSesame seeds (for garnish)\nInstructions:\nPrepare Noodles:\nCook the instant noodles according to the package instructions, but reduce the cooking time by 1-2 minutes to leave them slightly undercooked.\nPrepare Sauce:\nIn a bowl, mix soy sauce, oyster sauce, sesame oil, minced garlic, and grated ginger.\nCombine with Ingredients:\nIn a large mixing bowl, toss the slightly undercooked noodles with shredded chicken and sliced vegetables.\nAdd Sauce:\nPour the prepared sauce over the noodle mixture and toss until everything is well coated.\nSteam Noodles:\nTransfer the noodle mixture to a heatproof dish or a plate suitable for steaming. Level the surface.\nSteam:\nSteam the noodles over boiling water for about 10-12 minutes, or until the noodles are fully cooked and the vegetables are tender.\nGarnish and Serve:\nGarnish with sliced green onions and sesame seeds.\nServe Hot:\nServe the Steamed Instant Noodles hot, and enjoy your flavorful and steamed noodle dish!");
                     break;
                 case "2364":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Garlic Sesame Shrimp Noodles:\n\nIngredients:\n1 packet of instant noodles200g shrimp, peeled and deveined\n3 cloves garlic, minced\n2 tablespoons soy sauce\n1 tablespoon sesame oil\n1\ntablespoon oyster sauce\nInstructions:\nCook the instant noodles according to the package instructions.\nIn a pan, sauté minced garlic until fragrant.\nAdd shrimp and cook until pink. Stir in soy sauce, sesame oil, and oyster sauce.\nToss in cooked noodles and mix well.");
                     break;
                 case "2365":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("Ingredients:\n\n1 packet instant noodles\n4 cups chicken or vegetable broth\n2 cloves garlic, minced\n1 tbsp soy sauce\n1 tsp sesame oil\n1 tsp chili paste or sriracha\n1 cup sliced vegetables\nGreen onions, sliced\nInstructions:\nCook instant noodles according to package instructions; set aside.\nHeat broth, add garlic, soy sauce, sesame oil, and chili paste.\nAdd sliced vegetables; simmer until tender-crisp.\nCombine cooked noodles with the broth and vegetables.\nGarnish with green onions, and add optional toppings.\nServe immediately for a quick and satisfying spicy noodle soup. Enjoy!");
                     break;
                 //frozen foods
                 case "2371":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.WriteLine("Frozen Foods High Appetite Stew\nIngredients:\n1 lb frozen mixed vegetables (carrots, peas, corn, green beans)\n1 lb frozen diced potatoes or hash browns\n1 lb frozen meatballs or pre-cooked diced chicken\n4 cups beef or vegetable broth\n1 can (14 oz) diced tomatoes\n1 onion, diced\n2 cloves garlic, minced\n1 teaspoon dried thyme\n1 teaspoon paprika\nSalt and pepper to taste\n2 tablespoons olive oil\nInstructions:\nIn a large pot, heat olive oil over medium heat. Add diced onion and minced garlic. Sauté until fragrant and onions are translucent.\nAdd frozen vegetables, frozen potatoes, and frozen meatballs or diced chicken to the pot. Stir and cook for 5-7 minutes, allowing them to slightly thaw and brown.\nPour in the beef or vegetable broth and diced tomatoes. Stir well.\nSeason the stew with dried thyme, paprika, salt, and pepper. Stir to combine.\nBring the stew to a boil, then reduce heat to low. Cover and simmer for 20-25 minutes, or until the vegetables are tender and the flavors have melded together.\nTaste and adjust seasoning if needed.\nServe hot, garnished with fresh parsley if desired.\nThis stew makes for a satisfying meal with the convenience of using frozen ingredients. Adjust the seasonings and choice of protein or vegetables to suit your preferences");
                     break;
                 case "2372":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("Ingredients:\n\n1 lb frozen stir-fry vegetable mix (broccoli, bell peppers, snap peas, carrots)\n1 lb frozen pre-cooked shrimp or diced chicken\n3 tablespoons soy sauce\n2 tablespoons olive oil\n3 cloves garlic, minced\n1 teaspoon grated ginger\n1 tablespoon honey or brown sugar (optional)\nSalt and pepper to taste\nCooked rice or noodles for serving\n\nInstructions:\nHeat olive oil in a large skillet or wok over medium-high heat.\nAdd minced garlic and grated ginger. Sauté for about 30 seconds until fragrant.\nAdd the frozen stir-fry vegetables to the skillet. Cook, stirring frequently, for 5-7 minutes until they start to soften.\nIf using frozen shrimp or diced chicken, add it to the skillet with the vegetables. Cook for an additional 3-5 minutes until heated through.\nPour soy sauce over the mixture. Add honey or brown sugar if desired for a touch of sweetness. Stir well to coat everything evenly.\nSeason with salt and pepper to taste.\nContinue cooking for another 2-3 minutes until everything is heated through and flavors are combined.\nServe the sauté over cooked rice or noodles.\nThis sauté is versatile, quick, and customizable. Feel free to swap out different vegetables or protein options to suit your taste!");
                     break;
                 case "2373":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Ingredients:\n4 frozen fish fillets (such as cod, tilapia, or salmon)\n1 lb frozen broccoli florets\n1 lb frozen mixed bell peppers (sliced)\n4 tablespoons soy sauce\n2 tablespoons rice vinegar\n2 tablespoons sesame oil\n2 cloves garlic, minced\n1 teaspoon grated ginger\nSalt and pepper to taste\nOptional: sesame seeds and sliced green onions for garnish\n\nInstructions:\nThaw the frozen fish fillets according to package instructions.\nPrepare a steamer or a large pot with a steaming basket.\nArrange the thawed fish fillets on a plate suitable for steaming.\nIn a bowl, mix together soy sauce, rice vinegar, sesame oil, minced garlic, grated ginger, salt, and pepper.\nPour half of this sauce mixture over the fish fillets, ensuring they are evenly coated. Reserve the other half for later.\nPlace the plate with the fish in the steamer basket over boiling water and cover. Steam for about 8-10 minutes or until the fish is cooked through and flakes easily with a fork.\nMeanwhile, in a separate steaming basket or pot, steam the frozen broccoli and mixed bell peppers for about 5-7 minutes until tender but still crisp.\nOnce everything is steamed, arrange the vegetables around the steamed fish on a serving platter.\nDrizzle the remaining sauce over the fish and vegetables.\nGarnish with sesame seeds and sliced green onions if desired.\nThis steamed fish with vegetables is a healthy and flavorful meal that's perfect for a hearty appetite. Adjust the seasoning and choice of vegetables according to your preference!");
                     break;
                 case "2374":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Ingredients:\n1 lb frozen chicken nuggets\n2 tbsp vegetable oil\n1 bell pepper, sliced\n1 cup broccoli florets\n1 carrot, julienned\n3 cloves garlic, minced\n2 tbsp soy sauce\n1 tbsp hoisin sauce\n1 tbsp honey\n1 tsp grated ginger\n1 tsp sesame oil\nSesame seeds and green onions for garnish\nCooked rice or noodles for serving\nInstructions:\nBake chicken nuggets according to package instructions.\nIn a skillet, sauté bell pepper, broccoli, carrot, and garlic.\nMix soy sauce, hoisin sauce, honey, ginger, and sesame oil in a bowl.\nCut cooked chicken nuggets, add to vegetables, and pour the sauce.\nToss until coated and heated through.\nGarnish with sesame seeds and green onions.\nServe over rice or noodles. Enjoy your quick and tasty chicken nugget stir-fry!");
                     break;
                 case "2375":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("Ingredients:\n1 lb frozen mixed vegetables (carrots, peas, corn, green beans)\n1 lb frozen diced potatoes or hash browns\n1 can (15 oz) white beans or any beans of your choice, drained and rinsed\n 4 cups vegetable or chicken broth\n1 onion, diced\n 3 cloves garlic, minced\n2 tablespoons olive oil\n1 teaspoon dried thyme\n1 teaspoon dried rosemary\nSalt and pepper to taste\nOptional: chopped fresh parsley for garnish\n\nInstructions:\n In a large pot, heat olive oil over medium heat. Add diced onion and minced garlic. Sauté until fragrant and onions are translucent.\n Add frozen mixed vegetables and frozen potatoes to the pot. Stir and cook for 5-7 minutes, allowing them to slightly thaw.\nPour in the vegetable or chicken broth. Add the drained and rinsed beans, dried thyme, dried rosemary, salt, and pepper. Stir well to combine.\nBring the soup to a boil, then reduce heat to low. Cover and simmer for 20-25 minutes, or until the vegetables are tender.\n Taste and adjust seasoning if needed.\nServe hot, garnished with chopped fresh parsley if desired.");
                     break;
                 //pork
                 case "2381":
                     Console.Clear();
-                    Console.WriteLine("1111");
+                    Console.WriteLine("Pork tomato stew\nIngredients:\n200g pork shoulder or pork stew meat, cut into chunks\n1 onion, finely chopped\n2 cloves garlic, minced\n1 can (14 oz) diced tomatoes\n1 cup chicken or vegetable broth\nSalt and pepper to taste\n2 tablespoons cooking oil\nInstructions:\nBrown the Pork:\nIn a large pot or Dutch oven, heat cooking oil over medium-high heat. Add the pork chunks and brown them on all sides. This helps develop flavor.\nSauté Aromatics:\nAdd chopped onions to the pot and sauté until they become translucent. Add minced garlic and cook for an additional minute.\nSeason:\nSprinkle salt, and pepper over the pork and onions. Stir to coat the meat with the seasonings.\nAdd Tomatoes:\nPour in the diced tomatoes with their juices. Use a wooden spoon to scrape up any browned bits from the bottom of the pot.\nPour Broth:\nAdd the chicken or vegetable broth to the pot. Stir to combine all the ingredients.\nSimmer:\nBring the mixture to a simmer. Once simmering, reduce the heat to low, cover the pot, and let it simmer gently for about 1 to 1.5 hours, or until the pork is tender. \n Stir occasionally.\nAdjust Seasoning:\nTaste the stew and adjust the seasoning if needed. Add more salt and pepper according to your preference.\nServe:\nOnce the pork is tender and the flavors have melded together, ladle the stew into bowls. \nPairing:\nServe the Pork and Tomato Stew over rice, mashed potatoes, or with crusty bread to soak up the delicious juices.");
                     break;
                 case "2382":
                     Console.Clear();
-                    Console.WriteLine("1112");
+                    Console.WriteLine("I'm sorry, this method of cooking is not applicable to this dish. I suggest trying other methods.");
                     break;
                 case "2383":
                     Console.Clear();
-                    Console.WriteLine("1113");
+                    Console.WriteLine("Pork lumpia\nIngredients:\n200g  ground pork\n1 cup julienned carrots\n1 cup finely chopped cabbage\n1 cup chopped green onions\n1 small onion, finely chopped\n2 cloves garlic, minced\n1 egg\nLumpia or spring roll wrappers\nSalt and pepper to taste\nCooking oil for frying\nSoy sauce or sweet and sour sauce for dipping\nInstructions:\nPrepare the Filling\nIn a large mixing bowl, combine ground pork, julienned carrots, chopped cabbage, chopped green onions, chopped onion, and minced garlic.\nSeason the Filling\nSeason the filling mixture with salt and pepper to taste. Mix well.\nAdd Egg\nCrack an egg into the mixture and mix until well combined. The egg helps bind the filling together.\nAssemble the Lumpia\nLay a lumpia wrapper on a clean surface. Spoon a portion of the pork and vegetable filling onto the lower part of the wrapper.\nFold the bottom edge of the wrapper over the filling, then fold in the sides, and roll tightly into a log or cylinder. Seal the edge with a little water.\nRepeat the process until all the filling is used.\nHeat Oil for Frying\nIn a deep pan or a wok, heat enough oil for deep frying over medium-high heat.\nFry the Lumpia\nCarefully place the wrapped lumpia into the hot oil, seam side down. Fry until they are golden brown and crispy, turning occasionally to ensure even cooking.\nDrain and Serve\n\nOnce the lumpia are crispy and golden, remove them from the oil and drain on paper towels to remove excess oil.\nServe with Dipping Sauce\nServe the Pork Lumpia hot with a dipping sauce of your choice, such as soy sauce or sweet and sour sauce.\nIf you want to freeze some for later use, arrange the uncooked lumpia in a single layer on a tray and freeze. Once frozen, transfer them to a ziplock bag. Fry directly from frozen when you're ready to enjoy them.");
                     break;
                 case "2384":
                     Console.Clear();
-                    Console.WriteLine("1114");
+                    Console.WriteLine("Breaded pork chop\nIngredients:\n4 bone-in pork chops\n1 cup all-purpose flour\n2 eggs, beaten\n1 cup breadcrumbs (seasoned or plain)\nSalt and pepper to taste\nVegetable oil for frying\nInstructions:\nPreheat the Oven:\nPreheat your oven to 375°F (190°C).\nPrepare the Breading Station:\nSet up a breading station with three shallow dishes. Place flour in the first dish, beaten eggs in the second dish, and breadcrumbs in the third dish.\nSeason the Pork Chops:\nSeason the pork chops with salt and pepper on both sides.\nCoat with Flour:\nDredge each pork chop in the flour, ensuring an even coating. Shake off any excess flour.\nDip in Beaten Eggs:\nDip the floured pork chops into the beaten eggs, making sure they are well coated.\nCoat with Breadcrumbs:\nPress each pork chop into the breadcrumbs, ensuring they are fully coated. Press the breadcrumbs onto the chops for better adherence.\nHeat Vegetable Oil:\nIn a large oven-safe skillet, heat enough vegetable oil to cover the bottom of the pan over medium-high heat.\nFry the Pork Chops:\nOnce the oil is hot, carefully place the breaded pork chops in the skillet. Fry each side until golden brown, approximately 3-4 minutes per side.\nTransfer to the Oven:nIf your skillet is oven-safe, transfer it directly to the preheated oven. Otherwise, transfer the pork chops to a baking sheet lined with parchment paper.\nBake:\nBake the pork chops in the preheated oven for about 15-20 minutes or until they reach an internal temperature of 145°F (63°C).\nServe:\nOnce cooked through and golden brown, remove the pork chops from the oven. Allow them to rest for a few minutes before serving.");
                     break;
                 case "2385":
                     Console.Clear();
-                    Console.WriteLine("1115");
+                    Console.WriteLine("Pork and vegetables soup\nIngredients:\n200g pork loin or pork shoulder, cut into bite-sized pieces\n1 onion, finely chopped\n2 cloves garlic, minced\n1 carrots, peeled and sliced\n1 potatoes, peeled and diced\n1 cup green beans, trimmed and cut into bite-sized pieces\n1 can diced tomatoes\n8 vegetable broth\n1 bay leaf\nSalt and pepper to taste\n2 tablespoons cooking oil\nInstructions:\nSauté Aromatics:\nIn a large pot or Dutch oven, heat cooking oil over medium heat. Add chopped onions and sauté until they become translucent. Add minced garlic and cook for an additional minute.\nBrown the Pork:\nAdd the pork pieces to the pot and brown them on all sides. This step helps enhance the flavor of the soup.\nAdd Vegetables:\nToss in the sliced carrots and diced potatoes. Stir the vegetables and pork together.\nPour Broth:\nAdd the diced tomatoes (with their juices) and pour the vegetable broth. Stir well to combine.\nSeason:\nadd the season with salt and pepper according to your taste.\nSimmer:\nBring the soup to a boil, then reduce the heat to low. Cover the pot and let it simmer for about 20-30 minutes or until the pork is cooked through, and the vegetables are tender.\nAdjust Seasoning:\nTaste the soup and adjust the seasoning if needed. Add more salt and pepper if desired.\nServe:\nLadle the Pork and Vegetable Soup into bowls\nPairing:\nEnjoy the soup on its own or serve it with crusty bread for a more substantial meal.");
                     break;
-               
+
                 //high budget
                 //low appetite
                 //chicken
@@ -1652,4 +1742,4 @@ namespace MealIO
             return choice;
         }
     }
-}
+    }
